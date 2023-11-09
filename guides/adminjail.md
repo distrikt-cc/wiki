@@ -6,4 +6,5 @@ Adminjail ist unser Ban System, hier wirst Du in ein Gefängnis geschickt und mu
 
 ### Hinweise
 
-Kommt es zu vermehrten Regelverstößen/Adminjail, erhöht sich deine Strafe automatisch je nach "History" (Mit "/informations" kannst du deine aktuelle "History" auf unserem Discord Server aufrufen bzw. einsehen).
+Kommt es zu vermehrten Regelverstößen/Adminjail, erhöht sich deine Strafe automatisch je nach "History" (Mit "/informations" kannst du deine aktuelle "History" auf unserem Discord Server aufrufen bzw. einsehen).\
+Du wirst im Adminjail auch Aufgaben lösen müssen damit auch die Zeit sinnvoll genutzt wird.
