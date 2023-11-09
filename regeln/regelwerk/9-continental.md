@@ -1,6 +1,6 @@
 # 👨⚖ §9 Continental
 
-D**as "Continental" - Eine IC-geführte Fraktionsverwaltung**
+**Das "Continental" - Eine IC-geführte Fraktionsverwaltung**
 
 **Rolle des Continentals:** Das "Continental" nimmt die zentrale Rolle in der IC-geführten Fraktionsverwaltung ein. Als solches ist es die zentrale Anlaufstelle für alle Angelegenheiten und Fälle, die die Fraktionen betreffen. Jeder Fraktionsfall muss in enger Abstimmung mit dem Continental verwaltet werden, um eine koordinierte und geregelte Fraktionspolitik zu gewährleisten.
 
@@ -24,4 +24,7 @@ Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basiere
 
 _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine Münze ab und genieße es, ein freier Mann zu sein._
 
-**Vogelfrei:** Wenn das Continental eine Fraktion als vogelfrei erklärt, sind **ALLE** Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis vom Continental andere Anweisungen erteilt werden.
+**Vogelfrei:** Wenn das Continental eine Fraktion als vogelfrei erklärt, sind **ALLE** Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis vom Continental andere Anweisungen erteilt werden. Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben.
+
+
+
