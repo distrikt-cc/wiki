@@ -24,7 +24,7 @@ Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basiere
 
 _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine Münze ab und genieße es, ein freier Mann zu sein._
 
-**Vogelfrei:** Wenn das Continental eine Fraktion als vogelfrei erklärt, sind **ALLE** Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis vom Continental andere Anweisungen erteilt werden. Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben.
+**Vogelfrei:** Im Falle, dass das Continental eine Fraktion als **vogelfrei** erklärt, sind ALLE anderen Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis seitens des Continentals andere Anweisungen erteilt werden. Das Continental ist dabei befugt, hierzu auch die Punkte der Serverregeln zu nutzen, um beispielsweise den **Schusscall** außer Kraft zu setzen.
 
-
+**Serverregeln:** Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben.
 
