@@ -2,7 +2,7 @@
 
 ### Erklärung <a href="#0-toc-title" id="0-toc-title"></a>
 
-„Drittpartei“ bedeutet, wenn **2** Fraktionen eine aktive [Roleplay](broken-reference/)-Situation haben und eine andere (_Dritte_) Fraktion gegen eine der beiden (_involvierten_) Fraktionen agiert.\\
+„Drittpartei“ bedeutet, wenn **2** Fraktionen eine aktive [Roleplay](broken-reference/)-Situation haben und eine andere (_Dritte_) Fraktion gegen eine der beiden (_involvierten_) Fraktionen agiert.\
 
 ### Hinweis <a href="#1-toc-title" id="1-toc-title"></a>
 
