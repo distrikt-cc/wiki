@@ -11,6 +11,8 @@
 ### Besonderheiten <a href="#4-toc-title" id="4-toc-title"></a>
 
 Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
+Die Entscheidung darüber, ob ein Sanitäter jemanden wiederbeleben darf, liegt ausschließlich in der Zuständigkeit des medizinischen Personals und darf nicht von anderen Personen beeinflusst werden.
+
 
 ### Logos/Bilder <a href="#5-toc-title" id="5-toc-title"></a>
 
