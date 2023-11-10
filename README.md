@@ -6,9 +6,9 @@ German Roleplay (GRP) ist ein FiveM RP Server, der stolz auf eine lange Geschich
 
 ### Eine Geschichte von Wandel und Wachstum
 
-Unsere Geschichte ist geprägt von Veränderungen und Anpassungen, die darauf abzielen, die Spielerfahrung auf unserem Server stets zu verbessern. Ursprünglich haben wir mit drei verschiedenen Servern unter dem Namen Distrikt operiert. Jeder dieser Server hatte seine eigene Identität und Spielerbasis.
+Unsere Geschichte ist geprägt von Veränderungen und Anpassungen, die darauf abzielen, die Spielerfahrung auf unserem Server stets zu verbessern. Ursprünglich haben wir mit drei verschiedenen Servern unter dem Namen GRP operiert. Jeder dieser Server hatte seine eigene Identität und Spielerbasis.
 
-Im Laufe der Zeit haben wir uns weiterentwickelt und entschieden, unsere Ressourcen zu bündeln. Unter dem Namen "Distrikt" schlossen sich die Server zu einem einzigen, kohärenten RP-Erlebnis zusammen. Dieser Schritt ermöglichte es uns, unsere Kräfte zu vereinen und unsere Community noch stärker zu verbinden.
+Im Laufe der Zeit haben wir uns weiterentwickelt und entschieden, unsere Ressourcen zu bündeln. Unter dem Namen "GRP" schlossen sich die Server zu einem einzigen, kohärenten RP-Erlebnis zusammen. Dieser Schritt ermöglichte es uns, unsere Kräfte zu vereinen und unsere Community noch stärker zu verbinden.
 
 ### Beteilige dich an unserer Wiki-Community
 
