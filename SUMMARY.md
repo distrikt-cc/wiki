@@ -58,6 +58,7 @@
 ## Guides
 
 * [🎫 Ticket erstellen](guides/ticket-erstellen.md)
+* [🎫 Im Spiel Ticket](guides/im-spiel-ticket.md)
 * [🗣 Support](guides/support.md)
 * [📈 FiveM FPS](guides/fivem-fps.md)
 * [⚔ Ban](guides/ban.md)
