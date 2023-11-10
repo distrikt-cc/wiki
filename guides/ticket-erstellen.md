@@ -15,13 +15,13 @@
 
 Auswahl um welchen GRP es sich handelt.
 
-<figure><img src="https://cdn.discordapp.com/attachments/958157173257535538/969765183234928640/ticket.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ticket-erstellen/Supp tik.png" alt=""><figcaption></figcaption></figure>
 
 Hier wählst Du aus wo das Problem liegt
 
-Im Spiel Allgemein oder Entbannungsantrag
+Allgemein, Entbannungsantrag oder Rückerstattung beantragen
 
-<figure><img src="https://cdn.discordapp.com/attachments/958157173257535538/969765236557103184/spiell.PNG" alt="" height="164" width="402"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ticket-erstellen/support ticketdc.png" alt="" height="200" width="415"><figcaption></figcaption></figure>
 
 Hier kannst du eine Teambeschwerde einreichen, wenn du dich über ein Teamler Beschwerden möchtest am besten Detaillierte Beschreibung.
 
@@ -29,7 +29,7 @@ Hier kannst du eine Teambeschwerde einreichen, wenn du dich über ein Teamler Be
 * Was ist Passiert ?
 * Clip
 
-<figure><img src="https://cdn.discordapp.com/attachments/958157173257535538/969766585151672370/team.PNG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ticket-erstellen/ticket team.png" alt="" height="250" width="459"><figcaption></figcaption></figure>
 
 ### Hinweis <a href="#2-toc-title" id="2-toc-title"></a>
 
