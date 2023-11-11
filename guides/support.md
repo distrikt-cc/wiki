@@ -3,7 +3,7 @@
 ### Erklärung Support <a href="#0-toc-title" id="0-toc-title"></a>
 
 Im Support kannst Du Spieler melden die Deiner Meinung nach einen Regelverstoß _(siehe Regelwerk)_ begangen haben.\
-Bitte denk daran wenn Du ein Spieler mit ein Regelverstoß erwischt einen Clip / Aufnahme bereit zu haben und diesen / diese im Support vorzeigen kannst.\
+Bitte denk daran, wenn Du ein Spieler mit ein Regelverstoß erwischt einen Clip / Aufnahme bereitzuhaben und diesen / diese im Support vorzeigen kannst.\
 Natürlich hilft der Support _(soweit möglich)_ auch bei technischen Herausforderungen und Problemen weiter.\
 Ein klares Mikrofon und die Möglichkeit eine Bildschirmübertragung zu bieten hilft Dir und dem GRP-Team am besten um Deine Herausforderung / Probleme aus der Welt zu schaffen!
 
@@ -17,7 +17,7 @@ Ein Team-Mitglied wird sich so schnell wie es geht sich um Dein anliegen kümmer
 ### Beweise im Support <a href="#2-toc-title" id="2-toc-title"></a>
 
 Beweise im Support die einen Regelverstoß belegen sind die Grundlage für Sanktionen und Handlungen des GRP-Teams.\
-Desto klarer / besser deine Beweise sind, desto höher die Chance, dass das GRP-Team dir bestmöglich weiterhelfen kann und dir die Unterstützung zukommen lässt die du brauchst!\\
+Desto klarer / besser deine Beweise sind, desto höher die Chance, dass das GRP-Team dir bestmöglich weiterhelfen kann und dir die Unterstützung zukommen lässt, die du brauchst!\\
 
 ### Wie kann ich Clips machen ? <a href="#3-toc-title" id="3-toc-title"></a>
 

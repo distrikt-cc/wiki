@@ -11,7 +11,7 @@
 
 * Das Spiel ruckelt / lagged bei jedem
 * Jeder hat Probleme mit FiveM
-* Jeder erlebt das Selbe Problem
+* Jeder erlebt dasselbe Problem
 
 ### Step by Step: FiveM Cache leeren: <a href="#2-toc-title" id="2-toc-title"></a>
 
