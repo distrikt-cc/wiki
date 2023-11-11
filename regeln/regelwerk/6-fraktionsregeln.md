@@ -9,6 +9,10 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 
 Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Das „**Baiting“ / Anlocken / bewusste Provozieren** von (Staats-) Fraktionen ist **verboten**. Das Verlassen einer Fraktion die keine Staatsfraktion ist, vergisst der Betroffene durch einen „Blood Out“ alles in der Fraktion erlebte und muss eine realistische Summe in Cash / Materialien an die Fraktion abgeben (Staatsfraktionen ausgenommen)Das häufige Wechseln von Fraktionen ist zu unterlassen. Alle Leitungsebenen unterliegen einem strikten Korruptionsverbot. Staatfraktionen sind nur mit den vorgegebenen Uniformen aus dem Kleiderschrank erkenntlich.
 
+**Fraktionssperre**
+
+Es ist nicht erlaubt, regelmäßig zwischen Fraktionen zu wechseln. Spieler müssen nach dem Austritt aus einer Fraktion eine **Wartezeit von 7 Tagen einhalten**, es sei denn, sie waren vorher **mindestens 4 Wochen** Mitglied in dieser Fraktion. Falls eine Fraktion sich von **selbst auflöst**, entfällt die Wartezeit für einen Wechsel in eine **Fraktion**.
+
 [**Staats Fraktion:**](../staatsfraktion.md)\
 
 Eine Staatsfraktion besitzt keine Mitgliederlimitierung.\
