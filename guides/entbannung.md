@@ -25,6 +25,6 @@ Wir hoffen, dass Du dies verstehen kannst. Wir sind dafür verantwortlich, festz
 dass so ein Regelbruch nicht erneut vorkommt, da wir das RP-Geschehen\
 schützen und anderen nicht den Spielspaß verderben wollen.
 
-Solltest du mit dem schreiben deines Antrags fertig sein, bitten wir dich ein Ticket in unserem\
+Solltest du mit dem Schreiben deines Antrags fertig sein, bitten wir dich ein Ticket in unserem\
 Discord-Support zu öffnen und den Link deines Antrags dort einzufügen.\
 Das Team wird sich sobald dies geschehen ist schnellstmöglich um die Bearbeitung deines Falls kümmern, weswegen wir dich diesbezüglich um Geduld bitten möchten.

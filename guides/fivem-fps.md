@@ -10,7 +10,7 @@ FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware o
 * Verringertes _FarClip_ (+5 fps)
 * Verringertes _LOD_ / _SLOD_ (+10 fps)
 * Deaktivierter _T/Imposters_ (+1 fps)
-* Deaktivierter _Blur_ & Deaktivierte**s** _HDR_ (+3 fps)
+* Deaktivierter _Blur_ & deaktivierte**s** _HDR_ (+3 fps)
 
 ### Download <a href="#2-toc-title" id="2-toc-title"></a>
 
@@ -40,7 +40,7 @@ Beachte, dass ein Löschen des FiveM-Cache ebenfalls deine FPS erhöhen kann.
 
 **Weitere Möglichkeiten deine FPS zu verbessern**
 
-Im folgenden [Video](https://www.youtube.com/watch?v=4NM\_oECsGoQ) erfährst Du weitere hilfreiche Tipps zum steigern Deiner FPS innerhalb von GRP und FiveM im Allgemeinen.
+Im folgenden [Video](https://www.youtube.com/watch?v=4NM\_oECsGoQ) erfährst Du weitere hilfreiche Tipps zum Steigern Deiner FPS innerhalb von GRP und FiveM im Allgemeinen.
 
 [https://www.youtube.com/watch?v=4NM\_oECsGoQ](https://www.youtube.com/watch?v=4NM\_oECsGoQ)
 

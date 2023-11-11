@@ -23,14 +23,14 @@ Allgemein, Entbannungsantrag oder Rückerstattung beantragen
 
 <figure><img src="../.gitbook/assets/ticket-erstellen/support ticketdc.png" alt="" height="200" width="415"><figcaption></figcaption></figure>
 
-Hier kannst du eine Teambeschwerde einreichen, wenn du dich über ein Teamler Beschwerden möchtest am besten Detaillierte Beschreibung.
+Hier kannst du eine Teambeschwerde einreichen, wenn du dich über ein Teamler Beschwerden möchtest am besten detaillierte Beschreibung.
 
 * Name des Teamlers
-* Was ist Passiert ?
+* Was ist passiert?
 * Clip
 
 <figure><img src="../.gitbook/assets/ticket-erstellen/ticket team.png" alt="" height="250" width="459"><figcaption></figcaption></figure>
 
 ### Hinweis <a href="#2-toc-title" id="2-toc-title"></a>
 
-Eine Teambeschwerde kann nur eingereicht werden wenn es genügend beweise hierzu gibt.
+Eine Teambeschwerde kann nur eingereicht werden, wenn es genügend beweise hierzu gibt.
