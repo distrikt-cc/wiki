@@ -9,7 +9,7 @@ Dasselbe gilt, auch wenn ihr das bei anderen Spielern schauen wollt.
 * Danach klickst du auf den Reiter ``Datenbank``
 <figure><img src="../.gitbook/assets/datenbank/start-eins.gif" alt=""><figcaption></figcaption></figure>
 
-#### ► Was kann ich dann sehen alles?
+#### ► Was kann man alles einsehen?
 * Ob der User Online ist oder Offine ist 
 * Spielzeit vom gesuchten User
 * Alle Fahrzeuge mit deren Kennzeichen
