@@ -65,3 +65,4 @@
 * [🔓 Entbannung](guides/entbannung.md)
 * [📂 Cache löschen](guides/cache-loeschen.md)
 * [⛓ Adminjail](guides/adminjail.md)
+* [‍💻 Datenbank](guides/datenbank.md)
