@@ -55,7 +55,8 @@ Diese Regelung gilt ausschließlich für tatsächliche Zivilisten. Spieler, die 
 **Das Callen auf Routen**
 
 ❱ Sobald die angreifende Partei auf einer Route einen **"Call"** setzt, gilt dieser für **alle Fraktionen**, die sich auf der Route befinden.
-\❱ Wenn die **Verteidiger** den **"Call"** eröffnen, betrifft er ausschließlich die Angreifer und **NICHT** alle Fraktionen auf der Route. Sollte sich eine weitere Partei auf der Route einmischen, wird dies als 3. Partei betrachtet.
+
+❱ Wenn die **Verteidiger** den **"Call"** eröffnen, betrifft er ausschließlich die Angreifer und **NICHT** alle Fraktionen auf der Route. Sollte sich eine weitere Partei auf der Route einmischen, wird dies als 3. Partei betrachtet.
 
 **Geiselnahmen & Überfälle**
 
