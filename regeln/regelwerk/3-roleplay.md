@@ -49,8 +49,9 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 
 **Zivigambo-Routenregelung (maximal 5 Personen)**
 
-Routenstürmen für Zivilisten ist **erlaubt**, jedoch auf maximal **5** Personen begrenzt. Zivilisten dürfen Routen stürmen, sind jedoch nicht berechtigt, diese in Anspruch zu nehmen, d.h., sie dürfen Drogen sammeln, aber nicht die Route verwalten.
-Diese Regelung gilt ausschließlich für tatsächliche Zivilisten. Spieler, die Mitglieder von Fraktionen sind, dürfen auch weiterhin NICHT als Zivilisten Routen stürmen.
+Routenstürmen für Zivilisten ist **erlaubt**, jedoch auf maximal **5** Personen begrenzt.
+Zivilisten dürfen Routen stürmen, sind jedoch nicht berechtigt, diese in Anspruch zu nehmen.[_d.h., sie dürfen Drogen sammeln, aber nicht die Route verwalten_.]
+Diese Regelung gilt ausschließlich für **tatsächliche Zivilisten**. Spieler, die Mitglieder von Fraktionen sind, dürfen auch weiterhin **NICHT** als Zivilisten Routen stürmen.
 
 **Das Callen auf Routen**
 
