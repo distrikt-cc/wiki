@@ -29,7 +29,7 @@ Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie sc
 Eine Fraktion darf aus maximal 35 Mitgliedern bestehen und so auch agieren. Die Fraktionsleitung ist dafür verantwortlich, dass alle Mitglieder im Fraktionsmenü eingetragen sind.
 
 Eine Bande besteht maximal aus 5 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion und muss sich [**hier anmelden**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).\
-Banden dürfen keine illegalen Routen beanspruchen. Das Stürmen ist nur mit einem RP-Hintergrund erlaubt. Eine Untergruppierung einer Fraktion ist erlaubt, das Agieren zusammen ist verboten. Diese Untergruppierung muss mit dem [Continental](../readme/9-continental.md) abgestimmt werden.\
+Banden dürfen keine illegalen Routen beanspruchen. Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt. Bei einer Anforderung im Support ist dieser RP-Hintergrund nachzuweisen. Eine Untergruppierung einer Fraktion ist erlaubt, das Agieren zusammen ist verboten. Diese Untergruppierung muss mit dem [Continental](../readme/9-continental.md) abgestimmt werden.\
 \
 Eine Fraktion besteht aus mindestens 10 Mitglieder und obliegt den Regeln des Continental. Wie du deine Fraktion anmeldest, erfährst du [**hier**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).
 
