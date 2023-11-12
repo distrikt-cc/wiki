@@ -50,7 +50,7 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 
 Das Callen auf Routen
 
-❱ Fällt ein Call auf einer Route die von Staatfraktionen gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\\
+❱ Fällt ein Call auf einer Route die von gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\\
 
 _Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
 
