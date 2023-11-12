@@ -34,7 +34,6 @@ Allgemeine Schusscallregelung:
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
 ❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
-❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 
 Beispiele für einen indirekten Schusscall:
 
@@ -48,11 +47,15 @@ Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Ha
 
 Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen zielt.
 
-Das Callen auf Routen
+**Zivigambo-Routenregelung (maximal 5 Personen)**
 
-❱ Fällt ein Call auf einer Route die gestürmt wird, eröffnet sich der Call für alle Parteien auf der Route.\\
+Routenstürmen für Zivilisten ist **erlaubt**, jedoch auf maximal **5** Personen begrenzt. Zivilisten dürfen Routen stürmen, sind jedoch nicht berechtigt, diese in Anspruch zu nehmen, d.h., sie dürfen Drogen sammeln, aber nicht die Route verwalten.
+Diese Regelung gilt ausschließlich für tatsächliche Zivilisten. Spieler, die Mitglieder von Fraktionen sind, dürfen auch weiterhin NICHT als Zivilisten Routen stürmen.
 
-_Das Callen einer einzeln Partei auf einer Route ist nicht möglich!_
+**Das Callen auf Routen**
+
+❱ Sobald die angreifende Partei auf einer Route einen **"Call"** setzt, gilt dieser für **alle Fraktionen**, die sich auf der Route befinden.
+❱ Wenn die **Verteidiger** den **"Call"** eröffnen, betrifft er ausschließlich die Angreifer und **NICHT** alle Fraktionen auf der Route. Sollte sich eine weitere Partei auf der Route einmischen, wird dies als 3. Partei betrachtet.
 
 **Geiselnahmen & Überfälle**
 
