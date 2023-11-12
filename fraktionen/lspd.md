@@ -18,6 +18,8 @@
 
 _Das LSPD ist eine Staatsfraktion._
 
+Das LSPD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. Das Stürmen des LSPD ist verboten.
+
 ### Logos/Bilder <a href="#4-toc-title" id="4-toc-title"></a>
 
 <figure><img src="https://prod.cloud.rockstargames.com/crews/sc/0291/19566919/publish/emblem/emblem_512.png" alt="LSPD Police Services - Rockstar Games Social Club" height="318" width="318"><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@
 
 ### Besonderheiten <a href="#4-toc-title" id="4-toc-title"></a>
 
-Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
+Das LSMD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. Das Stürmen des LSMD ist verboten.
 Die Entscheidung darüber, ob ein Sanitäter jemanden wiederbeleben darf, liegt ausschließlich in der Zuständigkeit des medizinischen Personals und darf nicht von anderen Personen beeinflusst werden.
 
 
