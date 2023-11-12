@@ -70,17 +70,10 @@ Geiselnahmen unterliegen den folgenden Beschränkungen
 Bei einem Überfall dürfen einer Person:
 
 * **Alle illegalen** Gegenstände entwendet werden!
-* **Maximal 500 (**_**legale**_**) Ressourcen** entwendet werden!
+* Die Entwendung **legaler Ressourcen** ist untersagt, mit Ausnahme von **Handy, Kabelbinder und Schutzweste**.
 * **Keine** (_Fahrzeug_)-Lizenzen / Waffenscheine / Diensts-, Anwalts- und Presseausweise entwendet werden!
 
-Ein Überfall auf User **darf nicht ohne gegebenem RP-Hintergrund passieren** _\[Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund]_.
-
-Folgende Gegenstände ziehen mehr „_Ressourcenkapazität_“:
-
-* **Sushi** = 20 / 500
-* **Sushi-Box** = 100 / 500
-* **Mett** = 20 / 50
-* **Schweineschnitzel** = 100 / 500
+Ein Überfall auf einen Nutzer darf nur mit **entsprechendem RP-Hintergrund** erfolgen. Der Grund hierfür muss bei einer Anfrage im Support nachgewiesen werden." _\[Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund]_.
 
 \
 Bei uns existieren zahlreiche illegale Routen, alle erforderlichen Informationen findest du [**hier**](../../erklaerung/illegale-routen.md).
