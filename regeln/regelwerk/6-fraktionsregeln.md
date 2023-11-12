@@ -22,7 +22,7 @@ Folgende Fraktionen gelten als [**Staatsfraktion**](../staatsfraktion.md):
 * Los Santos Medical Department
 
 Staatsfraktionen ist es untersagt Korrupt zu sein. Strafeinheiten (_Gefängnis / Jail_) über 40 Einheiten sind **nicht** zulässig.\
-Staatsfraktion dürfen zusammen agieren.
+Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. 
 
 **Illegale Fraktion:**\
 \
