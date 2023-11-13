@@ -1,6 +1,6 @@
 # 🚼 Teambefehle 
 
-# Im Spiel 
+## Im Spiel 
 
 Diese Befehle gehen auch ohne ``/`` im Chat und im ``F8`` sind die Befehle auch möglich auszuführen. 
 
@@ -13,7 +13,7 @@ Diese Befehle gehen auch ohne ``/`` im Chat und im ``F8`` sind die Befehle auch 
 + ``/dv [range]``  Fahrzeuge verschwinden lassen 
 + ``/kill [ID]`` Töten vom Spieler
 
-# Adminjail
+## Adminjail
 
 Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welcher Channel genutzt wird.
 
@@ -24,7 +24,7 @@ Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welch
 * User aus dem Adminjail holen und die Zeiten sowie Häufigkeiten einsehen.
   * ``/history [ID]``
 
-# TxAdmin
+## TxAdmin
 
 TxAdmin ruft ihr über einem Browser auf. **tx.grp.plus** \
 Dort logt ihr euch mit eurem CFx Account ein. \
@@ -40,7 +40,7 @@ Danach habt ihr diese Möglichkeiten.
 
 <figure><img src="../.gitbook/assets/commands/tx admin.png" alt=""><figcaption></figcaption></figure>
 
-# FiveGuard
+## FiveGuard
 
 FiveGuard Menu öffnest du **im Spiel** mit ``/fgm`` oder ``fgm``
 
