@@ -71,6 +71,10 @@ Geiselnahmen unterliegen den folgenden Beschränkungen
 * Bei einer Geiselnahme/Raub steht das RP im Vordergrund und nicht das Lösegeld/Wertgegenstände.
 * 30 Minuten vor dem Serverrestart dürfen keine Geiselnahmen/ Raube / Razzien stattfinden.
 * Razzien (Stürmen eines Anwesen) ist erlaubt.
+* Wenn die Geisel die **Geiselnahme ablehnt**, darf diese **NICHT** getötet werden. (PowerRP)
+
+Die Geisel kann OOC einen Hinweis darauf geben:
+_/ooc Ich möchte keine Geisel sein_
 
 Überfälle unterliegen den folgenden Beschränkungen:\
 Bei einem Überfall dürfen einer Person **alle illegalen Gegenstände** entwendet werden!
