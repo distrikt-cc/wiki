@@ -32,6 +32,7 @@
 * [⚒ Farming](erklaerung/farming.md)
 * [💵 Geld Arten](erklaerung/geld-arten.md)
 * [🎆 Events](erklaerung/events.md)
+* [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
 * [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
@@ -66,3 +67,7 @@
 * [📂 Cache löschen](guides/cache-loeschen.md)
 * [⛓ Adminjail](guides/adminjail.md)
 * [💻 Datenbank](guides/datenbank.md)
+
+## Team
+
+* [📈 Team Befehle](guides/commands.md)
