@@ -13,7 +13,7 @@ Diese Befehle gehen auch ohne ``/`` im Chat und im ``F8`` sind die Befehle auch 
 + ``/dv [range]``  Fahrzeuge verschwinden lassen. 
 + ``/kill [ID]`` Töten vom Spieler.
 
-## Adminjail
+### Adminjail
 
 Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welcher Channel genutzt wird.
 
@@ -24,7 +24,7 @@ Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welch
 * User aus dem Adminjail holen und die Zeiten sowie Häufigkeiten einsehen.
   * ``/history [ID]``
 
-## TxAdmin
+### TxAdmin
 
 TxAdmin ruft ihr über einem Browser auf. **tx.grp.plus** \
 Dort logt ihr euch mit eurem CFx Account ein. \
@@ -40,7 +40,7 @@ Danach habt ihr diese Möglichkeiten.
 
 <figure><img src="../.gitbook/assets/commands/tx admin.png" alt=""><figcaption></figcaption></figure>
 
-## FiveGuard
+### FiveGuard
 
 FiveGuard Menu öffnest du **im Spiel** mit ``/fgm`` oder ``fgm``.
 
@@ -74,12 +74,12 @@ Die anderen Funktionen dürfen nicht genutzt werden oder sind ohne Funktion.
 
 ###
 
-## Sonstige Discord befehle
+### Sonstige Discord befehle
 
 Hier habt ihr viele Funktionen, die ihr ausführen könnt in jedem Channel. \
 Diese seht auch nur Ihr als Person.
 
-### ► Diese Funktionen gehen nur mit ``/``
+#### ► Diese Funktionen gehen nur mit ``/``
 + ``/revive player [ID]`` Wiederbeleben vom Spieler.
 + ``/revive all`` Wiederbeleben von allen Spieler die auf dem Server sind.
 + ``/teleport [location]  [ID]`` Teleportiert User in den ausgewählten Hub.
@@ -90,12 +90,12 @@ Diese seht auch nur Ihr als Person.
 + ``/outfit [ID]`` Schickt den User in die Umkleide.
 + ``/skipesecure`` Überspringt den Noobschutz.
 
-### ► Diese Befehle nur, wenn es notwendig ist und abgesprochen ist mit der Leitung der Fraktionen.
+#### ► Diese Befehle nur, wenn es notwendig ist und abgesprochen ist mit der Leitung der Fraktionen.
 + ``/setjob ambulance [ID]`` [LSMD]
 + ``/setjob police [ID]`` [LSPD]
 + ``/setjob unemployed [ID]`` [Zivilist]
 
-### ► Diese Befehle kannst du im Ticketsystem nutzen
+#### ► Diese Befehle kannst du im Ticketsystem nutzen
 + ``/rename [name]`` Ticket umbenennen.
 + ``/add [DiscordID]`` User dem Ticket hinzufügen.
 + ``/addadmin [UserOderRolle]`` User oder gewisse Rolle dem Ticket hinzufügen.
@@ -104,7 +104,7 @@ Diese seht auch nur Ihr als Person.
 + ``!angaben`` Achtung es fehlen noch Angaben!
 
 
-### ► Diese Befehle kannst du auch im Discord nutzen.
+#### ► Diese Befehle kannst du auch im Discord nutzen.
 + ``!voicerename [Name]`` Achtung gilt nur für den eigene VoiceChannel.
 + ``!voice-lock`` Der VoiceChannel wird gesperrt für alle User.
 + ``!voice-unlock`` Der VoiceChannel wird freigegeben für alle User.
@@ -114,7 +114,7 @@ Diese seht auch nur Ihr als Person.
 
 #
 
-### ID:``License, Discord ID, InGame ID``
+#### ID:``License, Discord ID, InGame ID``
 
 #
 
