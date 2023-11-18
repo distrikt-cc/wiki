@@ -70,4 +70,4 @@
 
 ## Team
 
-* [📈 Team Befehle](guides/commands.md)
+* [📈 Team Befehle](team/commands.md)
