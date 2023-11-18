@@ -1,4 +1,4 @@
-# 📈 Teambefehle 
+# 📈 Team Befehle
 
 ## Im Spiel 
 
