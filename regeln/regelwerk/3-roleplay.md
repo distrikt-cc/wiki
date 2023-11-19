@@ -29,7 +29,6 @@ Allgemeine Schusscallregelung:
 
 ❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet.\
 ❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
-❱ Freche Äußerungen oder das Tazern ist kein Schusscall.\
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
