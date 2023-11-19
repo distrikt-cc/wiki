@@ -52,9 +52,6 @@
 
 * [🏥 LSMD](fraktionen/lsmd.md)
 * [👮 LSPD](fraktionen/lspd.md)
-* [🚓 LSSD](fraktionen/lssd.md)
-* [🕵 FIB](fraktionen/fib.md)
-* [👨🔧 Mechaniker](fraktionen/mechaniker.md)
 
 ## Guides
 
