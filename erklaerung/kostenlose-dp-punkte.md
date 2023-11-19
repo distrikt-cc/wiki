@@ -1,7 +1,3 @@
-# 🎫 Kostenlose DP Punkte
-
-#
-
 ### Wo finde ich diese Kostenlose DP Punkte? 
 
 Die Punkte kannst du auf dem Geländer des **Continental** finden. \
