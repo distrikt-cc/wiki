@@ -52,6 +52,7 @@
 
 * [🏥 LSMD](fraktionen/lsmd.md)
 * [👮 LSPD](fraktionen/lspd.md)
+* [🚘 Auto Händler](fraktionen/autohaendler.md)
 
 ## Guides
 
