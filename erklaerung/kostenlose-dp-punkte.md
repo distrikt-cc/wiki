@@ -1,4 +1,4 @@
-### Wo finde ich diese kostenlose DP Punkte? 
+### Wo finde ich diese kostenlose DP Punkte?
 
 Die Punkte kannst du auf dem Gelände des **Continental** finden. \
 Dies befindet sich an der PLZ ``7115`` **!**
