@@ -21,9 +21,3 @@ Dort siehst du auch wann der nächste DP punkt fertig ist.
 #
 
 <figure><img src="../.gitbook/assets/dppunkte/visum dp.png" alt="" height="150" width="320"><figcaption></figcaption></figure>
-
-#
-
-{% hint style="info" %}
-**Achtung:** Diese Funktion ist ab dem Update 1.1 aktiv.
-{% endhint %}
