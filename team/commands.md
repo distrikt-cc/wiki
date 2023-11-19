@@ -13,7 +13,7 @@ Diese Befehle gehen auch ohne `/` im Chat und im `F8` sind die Befehle auch mög
 * `/dv [range]` Fahrzeuge verschwinden lassen.
 * `/kill [ID]` Töten vom Spieler.
 
-#### Adminjail
+### Adminjail
 
 Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welcher Channel genutzt wird.
 
@@ -22,7 +22,7 @@ Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welch
 * User aus dem Adminjail holen und die Zeiten sowie Häufigkeiten einsehen.
   * `/history [ID]`
 
-#### TxAdmin
+### TxAdmin
 
 TxAdmin ruft ihr über einem Browser auf. **tx.grp.plus**\
 Dort logt ihr euch mit eurem CFx Account ein.\
@@ -38,7 +38,7 @@ Danach habt ihr diese Möglichkeiten.
 
 <figure><img src="../.gitbook/assets/commands/tx admin.png" alt=""><figcaption></figcaption></figure>
 
-#### FiveGuard
+### FiveGuard
 
 FiveGuard Menu öffnest du **im Spiel** mit `/fgm` oder `fgm`.
 
@@ -67,7 +67,7 @@ Die anderen Funktionen dürfen nicht genutzt werden oder sind ohne Funktion.
 
 <figure><img src="../.gitbook/assets/commands/fgm bans.png" alt=""><figcaption></figcaption></figure>
 
-#### Sonstige Discord befehle
+### Sonstige Discord befehle
 
 Hier habt ihr viele Funktionen, die ihr ausführen könnt in jedem Channel.\
 Diese seht auch nur Ihr als Person.
@@ -98,6 +98,7 @@ Diese seht auch nur Ihr als Person.
 * `/closerequest [reason]Grund angeben` Ticket schließung anfragen.
 * `/remove [User]` Entfernt den User / die Rolle aus dem Ticket.
 * `!angaben` Achtung es fehlen noch Angaben!
+* `!formular` Char übertragungsformular.
 
 **► Diese Befehle kannst du auch im Discord nutzen.**
 
