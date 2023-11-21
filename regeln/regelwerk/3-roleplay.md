@@ -54,6 +54,18 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 
 ❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 
+**Das Callen auf Fraktionen**
+
+Sobald man außerhalb einer Route eine Fraktion **Called**, muss diese Partei im **Call** **angesprochen** werden.
+
+**Beispiel:** _Ein **Call** an das **"Golf Kartell"**, Caller: "Alle Golfer, Hände hoch oder es knallt"_
+
+Auf einer Route müssen weiterhin alle Parteien **gecalled** werden."
+
+**Das Callen beim Anwesen stürmen:**
+
+Sollte eine Fraktion ein Anwesenstürmen, gilt der **Call für alle** Partein auf dem Anwesen
+
 **Geiselnahmen & Überfälle**
 
 Geiselnahmen unterliegen den folgenden Beschränkungen
