@@ -7,7 +7,9 @@ Das Ausnutzen von Grauzonen im Regelwerk zur eigenen Bereicherung, („_man spie
 Sei kein Idiot. Raub niemanden bewusst den Spielspaß. Das Ausspielen von Krankheiten, Schwangerschaft oder Suizid ist verboten.\
 Supportgespräche auf unserem Discord-Server dürfen aufgezeichnet, aber nicht veröffentlicht werden.\
 Das Lügen im Support ist strengstens Verboten und kann bis zu einem permanenten Ausschluss führen.\
-Das Erfinden von Gegenständen, welche im Spiel nicht verfügbar sind, ist nicht erlaubt (z.b Klebeband, Fußketten, Panzertape, Scheren, Bombengürtel usw.)
+Sollte im Support beleidigt werden, wird automatisch für die Gegenpartei entschieden.\
+Das Erfinden von Gegenständen, welche im Spiel nicht verfügbar sind, ist nicht erlaubt (z.b Klebeband, Fußketten, Panzertape, Scheren, Bombengürtel usw.)\
+Das N-Wort ist in allen Variationen IC als auch OOC verboten.\
 
 **Mikrofon**
 
