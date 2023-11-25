@@ -88,6 +88,8 @@ Die Polizei muss nicht auf jede Forderung eingehen die ein Geiselnehmer stellt.
 Wenn ein Geiselnehmer mit dem Tod der Geisel droht, liegt es zwar im Interesse der Polizei die Geisel zu retten, jedoch nicht zu jedem Preis.
 Die Polizei kann nach eigenem Ermessen eine Situation stürmen.
 
+Das LSPD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. Das Stürmen des LSPD ist verboten.
+
 Überfälle unterliegen den folgenden Beschränkungen:\
 Bei einem Überfall dürfen einer Person **alle illegalen Gegenstände** entwendet werden!
 Die Entwendung **legaler Ressourcen** ist untersagt, mit Ausnahme von **Handy, Kabelbinder und Schutzweste**.
