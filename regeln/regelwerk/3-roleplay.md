@@ -52,7 +52,9 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 
 ❱ Wenn die **Verteidiger** den **"Call"** eröffnen, betrifft er ausschließlich die Angreifer und **NICHT** alle Fraktionen auf der Route. Sollte sich eine weitere Partei auf der Route einmischen, wird dies als 3. Partei betrachtet.
 
-❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
+❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.\
+
+❱ Die **Meth-Route** darf auch von **zivile Gruppierung oder als zivile Einzelperson** gestürmt werden.
 
 **Das Callen auf Fraktionen**
 
