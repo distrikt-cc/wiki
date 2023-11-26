@@ -15,6 +15,8 @@ Folgende Routen gelten als Illegale:
 * Kokain-Route
 * Waffenroute (Details siehe unten)
 * Munitionsroute (Details siehe unten)
+* Meth-Route
+* Alle anderen Routen, die im realen Leben ebenfalls ILLEGAL sind!
 
 Folgende Gegenstände gelten als **ILLEGAL**:
 
