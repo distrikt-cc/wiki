@@ -12,6 +12,7 @@ Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Das „*
 **Fraktionssperre**
 
 Es ist nicht erlaubt, regelmäßig zwischen Fraktionen zu wechseln. Spieler müssen nach dem Austritt aus einer Fraktion eine **Wartezeit von 7 Tagen einhalten**, es sei denn, sie waren vorher **mindestens 4 Wochen** Mitglied in dieser Fraktion. Falls eine Fraktion sich von **selbst auflöst**, entfällt die Wartezeit für einen Wechsel in eine **Fraktion**.
+Jeder hat die Möglichkeit sich beim Continental für einen Betrag freizukaufen. 
 
 [**Staats Fraktion:**](../staatsfraktion.md)\
 

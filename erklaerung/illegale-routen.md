@@ -31,12 +31,6 @@ Die Grundressourcen, um Waffenteile herzustellen, gelten als **legal**.
 
 Die Waffenteile (_Abzug, Holzgriff, Schaft, Lauf, Visier, Magazinhalter_) gelten als **illegal**.
 
-**Munitionsroute:**
-
-Die Grundressourcen, um Munitionsteile herzustellen, gelten als **legal**.
-
-Die Munitionsteile (Blei, Munitionsgehäuse, Nitropulver, Geschoss) gelten als **illegal**.
-
 Gegenstände mit den folgenden Endungen dürfen **nicht** abgenommen werden:
 
 * \[**Geheim]**
