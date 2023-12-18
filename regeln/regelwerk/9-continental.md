@@ -24,9 +24,9 @@ Das "Continental" agiert in dieser Angelegenheit als neutrale Partei und basiere
 
 _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine Münze ab und genieße es, ein freier Mann zu sein._
 
-**Vogelfrei:** Im Falle, dass das Continental eine Fraktion als **vogelfrei** erklärt, sind ALLE anderen Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis seitens des Continentals andere Anweisungen erteilt werden. Das Continental ist dabei befugt, hierzu auch die Punkte der Serverregeln zu nutzen, um beispielsweise den **Schusscall** außer Kraft zu setzen. Sollte eine Fraktion mit 6+ agieren und einen Regelbruch begehen bekommen Sie vom Continental ein Strich auf Ihrer Blacklist!(siehe Unten)
+**Vogelfrei:** Im Falle, dass das Continental eine Fraktion als **vogelfrei** erklärt, sind ALLE anderen Fraktionen verpflichtet, dieser Fraktion nachzujagen, bis seitens des Continentals andere Anweisungen erteilt werden. Das Continental ist dabei befugt, hierzu auch die Punkte der Serverregeln zu nutzen, um beispielsweise den **Schusscall** außer Kraft zu setzen. Sollte eine Fraktion mit 6+ agieren und einen Regelbruch begehen bekommen Sie vom Continental ein **Warn** auf Ihrer Blacklist!(siehe Unten)
 
-**Blacklist** Wenn eine Fraktion drei Striche erhält, wird sie automatisch als **Vogelfrei** erklärt. Für jeden Strich kann das Continental zusätzliche Sanktionen verhängen. Steht eine bestimmte Person auf der *Blacklist* und erhält drei Striche, führt dies zu einem permanenten Ausschluss dieser Person.
+**Blacklist** Wenn eine Fraktion drei **Warns** erhält, wird sie automatisch als **Vogelfrei** erklärt. Für jeden **Warn** kann das Continental zusätzliche **Sanktionen** verhängen. Steht eine bestimmte Person auf der *Blacklist* und erhält drei **Warns**, führt dies zu einem permanenten Ausschluss dieser Person.
 
 **Serverregeln:** Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben.
 
