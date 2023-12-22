@@ -8,7 +8,7 @@ description: Hier bekommst du alle Infos über das Fraktionsoutfit.
 
 * Oberteil
 * Hose
-* Weste
+* Weste (Fraktionsweste)
 
 **Ungeeignet** sind:
 
