@@ -45,3 +45,5 @@ Weiterhin ist…
 **verboten!**.
 
 Regelverstöße müssen nach spätestens 24 Stunden ab Bekanntheit, im GRP-Support (_per_[ _**Discord**_](https://discord.gg/grp-fivem)) gemeldet werden.
+
+GRP behält sich das Recht vor, bei Verstößen gegen die Serverregeln oder Richtlinien entsprechende Maßnahmen zu ergreifen, ohne dazu verpflichtet zu sein, die internen Beweise oder Systeme offenzulegen.
