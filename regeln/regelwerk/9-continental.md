@@ -28,5 +28,6 @@ _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine M
 
 **Blacklist** Wenn eine Fraktion drei **Warns** erhält, wird sie automatisch als **Vogelfrei** erklärt. Für jeden **Warn** kann das Continental zusätzliche **Sanktionen** verhängen. Steht eine bestimmte Person auf der *Blacklist* und erhält drei **Warns**, führt dies zu einem permanenten Ausschluss dieser Person.
 
-**Serverregeln:** Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben. Sich als **Continental** auszugeben ist **STRENG verboten** und wird mit einem Permanenten Ausschluss bestraft.
+**Serverregeln:** Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben. Sich als **Continental** auszugeben ist **STRENG verboten** und wird mit einem Permanenten Ausschluss bestraft. 
 
+Das Continental behält sich das Recht vor, Personen, die wiederholt gegen die Regeln verstoßen und somit ihre RP-Fähigkeit beeinträchtigen, dauerhaft zu bestrafen, indem sie als **"RP-Unfähig"** eingestuft werden.
