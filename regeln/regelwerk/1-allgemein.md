@@ -1,7 +1,7 @@
 # 📔 §1 Allgemein
 
 **Grundlegende Regeln**
-
+Durch das Betreten des Servers stimmst du automatisch dem kompletten Regelwerk zu, das auf diesem Server gilt.
 Das Verkaufen von **Inhalten auf GRP gegen Echtgeld** ist **verboten**.\
 Das Ausnutzen von Grauzonen im Regelwerk zur eigenen Bereicherung, („_man spielt sich selbst_„) ist **verboten**.\
 Sei kein Idiot. Raub niemanden bewusst den Spielspaß. Das Ausspielen von Krankheiten, Schwangerschaft oder Suizid ist verboten.\
