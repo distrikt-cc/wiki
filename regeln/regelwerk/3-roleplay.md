@@ -40,7 +40,7 @@ Beispiele für einen indirekten Schusscall:
 ❱ extreme Beleidigung und extremes Provozieren\
 ❱ das Schießen auf Reifen\\
 
-Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\\
+Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\
 
 ❱ “Hände hoch”, “Stehen bleiben” oder ähnliche Aufforderungen mit einer Waffe/Nahkampfwaffe in der Hand.
 
@@ -84,14 +84,14 @@ Geiselnahmen unterliegen den folgenden Beschränkungen
 Die Geisel kann OOC einen Hinweis darauf geben:
 _/ooc Ich möchte keine Geisel sein_
 
-Das LSPD darf von einer Fraktion nur 1x pro Woche gestürmt werden. 
+Das LSPD darf nicht gestürmt werden.
 _Hierfür wird ein RP-Hintergrund gebraucht._ 
 
 Eine Fraktion darf 3x pro Woche seine Fraktionsmitglieder durch eine Geiselnahme befreien.
 Bei einem Geisel/Fraktionsmitglied tausch kann das LSPD entscheiden ob der Tatverdächtige bewaffenet oder unbewaffnet freigelassen wird.
 _Beispiel: Das PD hat 3 Golfer festgenommen, somit benötigt das Golf-Kartell auch 3 Geiseln um Ihre Leute zu befreien._
 Die Polizei kann nach eigenem Ermessen eine Situation stürmen.
-Das LSPD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr, sollte das PD gestürmt werden entfällt die Regel.
+Das LSPD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
 
 Überfälle unterliegen den folgenden Beschränkungen:\
 Bei einem Überfall dürfen einer Person **alle illegalen Gegenstände** entwendet werden!
