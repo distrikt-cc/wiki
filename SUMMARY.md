@@ -16,6 +16,7 @@
   * [👨⚖ §9 Continental](regeln/regelwerk/9-continental.md)
   * [📔 §10 Kriegsvertrag](regeln/regelwerk/10-kriegsvertrag.md)
   * [🔫 §11 Wie wird meine Fraktion/Bande offiziell](regeln/regelwerk/11-wie-wird-meine-fraktion-bande-offiziell.md)
+  * [🔫 §12 Schusscall](regeln/regelwerk/12-Schusscall.md)
 * [🆘 Power RP](regeln/power-rp.md)
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
