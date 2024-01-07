@@ -7,7 +7,7 @@
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
-❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.
+❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md) / [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.
 
 **Beispiele für einen indirekten Schusscall:**
 
