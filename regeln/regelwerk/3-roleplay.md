@@ -1,72 +1,30 @@
 # 🎮 §3 Roleplay
 
-**VERHALTEN**
+**Verhalten:**
+- Gesundheit und Leben haben **höchste** Priorität.
+- Platzierbare Gegenstände dürfen keine Wege blockieren, es sei denn, es ist in einer RP-Situation angemessen.
+- Das Adminjail/Banns darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!
+- Neue / unerfahren Spieler dürfen **nicht** belästigt oder ausgenutzt werden.
+- Nach einem Serverneustart, Servercrash oder einem Spielfehler, müssen sich alle RP beteiligten Spieler umgehend wieder einfinden. Dauert dies länger als 10 Minuten, werden aktive RP-Situationen beendet / müssen nicht weitergeführt werden.\
 
-Das Leben / Gesundheit steht an erster Stelle und muss **geschützt / gewahrt** bleiben.\
-Platzierbare Gegenstände dürfen **nicht** genutzt werden, um Treppen o.ä zu blockieren.\
-_\[Ausnahme bei RP Situationen im **angemessenem Umfang**!]_\
-Das Adminjail darf in keinster Weise IC an/ausgesprochen werden (auch nicht Umgangssprachlich)!\\
+**OOC-Moral**
 
 Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../../was-ist/was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
 _z.b: /ooc Ich fühle mich in der Situation unwohl! Ich möchte die Situation beenden._\
 _Der Missbrauch dieser Regel, um persönlichen Verlust zu vermeiden oder einen unfairen Vorteil zu erlangen, mit administrativen Maßnahmen bestraft wird._
 
-Das bewusste Ausrauben / Belästigen von offensichtlich neuen / unerfahren Mitspielern ist **verboten**.\
-Nach einem Serverneustart, Servercrash oder einem Spielfehler, müssen sich alle RP beteiligten Spieler umgehend wieder einfinden. Dauert dies länger als 10 Minuten, werden aktive RP-Situationen beendet / müssen nicht weitergeführt werden.\
-Das Provozieren von Personen / Fraktionen wird um Fehlverhalten, herbeizuführen, wird bei dem Nachweis der Absicht bestraft. Fraktionen sind von dieser Regel ausdrücklich betroffen!\
-Spieler mit einer Vollmaskierung dürfen nicht anhand der Stimme/Akzent erkannt werden \[_Ein Bandana zählt ohne weitere Hilfsmittel, wie einen Hut nicht als Vollmaskierung_].\
-Jegliche Art von Scamming / Betrug ist **verboten**.\
-Mitglieder einer Staatsfraktion gelten als unantastbar, solange sie sich nicht in Gefahr begeben. \[Ausnahme bei Raubüberfällen, Provokation, Ausnutzen ihres Postens, Razzien]\
-Sportwagen, Tiefergelegte und nicht bauartbedingte Fahrzeuge sollten **nicht Offroad** fahren und sind **nicht** dafür ausgelegt.
+**Provokation und Betrug:**
+- Provozieren, um Fehlverhalten zu erzeugen, wird bestraft, insbesondere bei Fraktionen (Fraktionsbaiting).
+- Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden. \[_Ein Bandana zählt ohne weitere Hilfsmittel, wie einen Hut nicht als Vollmaskierung_].\
+- Jegliche Art von Scamming / Betrug ist **verboten**.
 
-Das Nackte agieren ist **Verboten**. Spieler die nackt rumlaufen gelten im Zweifelsfall als 3.Partei falls sie das reporten. Sollte jmd. der nackt ist mit umgeschossen werden, ist er selbst Schuld.
+**Spezifische Richtlinien und Beschränkungen**
+- Mitglieder der Staatsfraktion sind unantastbar. \[Ausnahme bei Raubüberfällen, Provokation, Ausnutzen ihres Postens, Razzien]\
+- Sportwagen und **nicht für Offroad-Zwecke** geeignete Fahrzeuge sollten nicht abseits der Straßen fahren.
+- Das Agieren in Nacktheit ist verboten.
+- Neue Spieler dürfen nicht aufgefordert werden, Einladungscodes einzugeben.
 
-Neulinge, die nicht von euch an,- oder abgeworben wurden, dürfen nicht gebeten werden, einen Einladungscode einzugeben.
-
-**SCHUSSCALL**
-
-Allgemeine Schusscallregelung:
-
-❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet.\
-❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
-❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
-❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
-❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
-❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
-
-Beispiele für einen indirekten Schusscall:
-
-❱ Wenn jemand mein Auto vor meinen Augen klaut\
-❱ extreme Beleidigung und extremes Provozieren\
-❱ das Schießen auf Reifen\\
-
-Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\
-
-❱ “Hände hoch”, “Stehen bleiben” oder ähnliche Aufforderungen mit einer Waffe/Nahkampfwaffe in der Hand.
-
-Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen zielt.
-
-**Das Callen auf Routen**
-
-❱ Sobald die angreifende Partei auf einer Route einen **"Call"** setzt, gilt dieser für **alle Fraktionen**, die sich auf der Route befinden.
-_Beispiel: Auf der Munitionsroute eröffnet Peckham den Call gegen die Fraktionen (Crips und Golf). Somit dürfen die Fraktionen Crips und Golf gegen Peckham schießen._
-_Sollten die Crips und Peckham ein Bündnis haben dürfen Crips sich aus der Schießerei raushalten. Sie dürften in diesem Beispiel nur auf Peckham schießen und nicht auf Golf._
-
-❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.\
-
-❱ Die **Meth-Route** darf auch von **zivile Gruppierung oder als zivile Einzelperson** gestürmt werden.
-
-**Das Callen auf Fraktionen**
-
-Sobald man außerhalb einer Route eine Fraktion **Called**, muss diese Partei im **Call** **angesprochen** werden.
-
-**Beispiel:** _Ein **Call** an das **"Golf Kartell"**, Caller: "Alle Golfer, Hände hoch oder es knallt"_
-
-Auf einer Route müssen weiterhin alle Parteien **gecalled** werden."
-
-**Das Callen beim Anwesen stürmen:**
-
-Sollte eine Fraktion ein Anwesenstürmen, gilt der **Call für alle** Partein auf dem Anwesen
+**VERHALTEN**
 
 **Geiselnahmen & Überfälle**
 
@@ -74,9 +32,9 @@ Geiselnahmen unterliegen den folgenden Beschränkungen
 
 * **Pro Geisel** darf **maximal 2500.-**$ gefordert werden.
 * Während einer Geiselnahme, Juwelen-Raub, Staatsbank-Raub, Ladenraub besteht **KEIN** aktiver Schusscall, hierbei steht das RP während der Verhandlung an erster Stelle.
-* Beim einem Juwelen oder Staatsbank-Raub wird mind. eine Geisel benötigt.
+* Juwelen- oder Staatsbankraub erfordert mindestens eine Geisel.
 * „_Fake-Geiseln_“ / Absprache mit Geiseln / Meta-Gaming ist **verboten**.
-* Bei einer Geiselnahme/Raub steht das RP im Vordergrund und nicht das Lösegeld/Wertgegenstände.
+* RP hat Vorrang vor Lösegeld oder Wertgegenständen.
 * 30 Minuten vor dem Serverrestart dürfen keine Geiselnahmen/ Raube / Razzien stattfinden.
 * Razzien (Stürmen eines Anwesen) ist erlaubt.
 * Wenn die Geisel die **Geiselnahme ablehnt**, darf diese **NICHT** getötet werden. (PowerRP)
@@ -112,46 +70,4 @@ Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch anspre
 
 [**RDM**](../rdm.md)**\*** / [**VDM**](../vdm.md)**\*\*** / sind **verboten**.
 
-**Meta-Gaming**
 
-Die Verwendung von Informationen im Spiel \[IC], welche du außerhalb des Spiels \[OOC] erworben hast, bezeichnet man als Metagaming. Diese Infos darf dein Charakter nicht wissen und muss sie IC rausfinden.\
-Es ist untersagt Informationen, die aus Livestreams gewonnen wurden, IC zu verwenden._._
-
-**Fail-RP**
-
-Wenn man im RP aus seiner Rolle fällt bzw. sich im RP nicht angemessen verhält, fällt dies unter Fail RP. _\[Denk dir vorher immer, ob dein Charakter dazu in der Lage ist / Ob diese Aktion klug für dein Leben ist oder nicht]_\
-Wer aufgrund technischer Probleme eine RP-Situation verlassen muss, ist dazu verpflichtet, die beteiligten Spieler via [**Discord**](https://discord.gg/grp-fivem) zu informieren. Falls nicht möglich: Support informieren.
-
-**POWER RP**
-
-Power RP bedeutet, dass man dem anderen Spieler keine Möglichkeit aus einer RP Situation (lebend) zu entkommen oder einem anderen Spieler eine RP-Situation aufzwingt.\
-Es ist verboten gerade gespawnte Spieler ins RP zu ziehen und als Geisel zu nehmen.\
-Es ist untersagt “_Neulinge_” am Spawn zu belästigen/entführen/zu töten.\
-Schutzgeld und gezwungene Geldüberweisungen gelten als Power RP.
-
-_Wenn dein Charakter unhöflich oder unrealistisch handelt, wenn er einer bewaffneten Person gegenübersteht, kann es der bewaffneten Person erlaubt sein, dich zu erschießen. Dies fällt nicht unter das PowerRP, da dein Charakter überlebt hätte, wenn er respektvoll mit der bewaffneten Person umgegangen wäre._
-
-**RP-FLUCHT**
-
-Die Flucht aus einer RP-Situation, indem man sich ausloggt, von der Situation entfernt oder Selbstmord begeht, ist **verboten** (_z.B. Offlineflucht / Combat Log-Out_).\
-RP-Flucht mit dem Hintergrund seine Inventar nicht der Gegenpartei aushändigen zu müssen wird mit einem Safe/Garagen Clear bestraft!
-
-Das Flüchten in eine für andere nicht begehbare Wohnung oder anderes nicht begehbares Gebäude um einer Situation zu entfliehen oder sich einen Vorteil zu beschaffen ist verboten.
-
-**3.Partei**
-
-Bei einem Krieg zwischen dem Handelspartner und einer dritten Partei darf sich nicht eingemischt werden.\
-Interaktionen zwischen Fraktionen finden ohne Störung durch eine Drittpartei statt! (Staatsfraktionen ausgenommen) Fraktionen ist es nicht gestattet sich aktiven Schussgefechten zu nähern bei denen klar die eigene Fraktion unbeteiligt ist. (_Staatsfraktionen ausgenommen_). Gibt die Fraktion über /ooc einen Hinweis auf eine laufende Situation, ist dies ernst zunehmen und die Situation sofort zu verlassen. Sollte die Partei dieses ausnutzen, um sich der RP-Situation zu entziehen, wird diese im Support bestraft.\
-Das Abwarten einer Situation von zwei Partei um „abzustauben“ ist verboten (Staatsfraktionen ausgenommen)
-
-**New Life**
-
-Nach einer Not-OP \[Ausgeblutet] \[Hier tritt die New-Life Regel in Kraft] darf man sich nicht an vorherige RP-Situation erinnern.\
-Nach der Behandlung durch das Not-OP Team darf man nicht in die zuvor angefangene RP-Situation zurückkehren.\
-Unter einer RP-Situation versteht sich eine aktuell laufende Aktion wie z.B. eine Schießerei, Geiselnahme, Verhandlung etc.\
-Wer durch einen Mediziner behandelt und wiederbelebt wurde, kann sich an seine RP-Situation erinnern, darf jedoch an der alten Situation nicht mehr teilnehmen, es sei denn, die Gegenpartei zwingt denjenigen, an der Situation teilzunehmen.\
-An alle Geschehnisse, die während der Bewusstlosigkeit passieren, kann man sich nicht erinnern.\
-Befindet man sich in einer RP Situation bewusstlos am Boden, darf man nach 10 Minuten ausbluten.\
-Nach deiner Wiederbelebung, darfst du nicht an deiner alten RP-Situation Teilnehmen
-
-_\[Diese Regel entfällt bei Verhaftungen oder bei Einbindung in die aktive Situation]_.

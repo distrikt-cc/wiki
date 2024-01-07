@@ -1,26 +1,15 @@
 # 📔 §1 Allgemein
 
-**Grundlegende Regeln**
-Durch das Betreten des Servers stimmst du automatisch dem kompletten Regelwerk zu, das auf diesem Server gilt.
-Das Verkaufen von **Inhalten auf GRP gegen Echtgeld** ist **verboten**.\
-Das Ausnutzen von Grauzonen im Regelwerk zur eigenen Bereicherung, („_man spielt sich selbst_„) ist **verboten**.\
-Sei kein Idiot. Raub niemanden bewusst den Spielspaß. Das Ausspielen von Krankheiten, Schwangerschaft oder Suizid ist verboten.\
-Supportgespräche auf unserem Discord-Server dürfen aufgezeichnet, aber nicht veröffentlicht werden.\
-Das Lügen im Support ist strengstens Verboten und kann bis zu einem permanenten Ausschluss führen.\
-Sollte im Support beleidigt werden, wird automatisch für die Gegenpartei entschieden.\
-Das Erfinden von Gegenständen, welche im Spiel nicht verfügbar sind, ist nicht erlaubt (z.b Klebeband, Fußketten, Panzertape, Scheren, Bombengürtel usw.)\
-Das N-Wort ist in allen Variationen IC als auch OOC verboten.\
+**Allgemeine Regeln:**
+- Beim Betreten des Servers stimmst du den Regeln zu.
+- Der Verkauf von Inhalten gegen echtes Geld ist verboten.
+- Kein Ausnutzen von Regelungslücken zur eigenen Bereicherung.
+- Kein Spielen mit Krankheiten, Schwangerschaft oder Suizid.
 
-**Mikrofon**
+**Mikrofonanforderungen:**
+- Ein gutes Mikrofon ist Pflicht: keine Störgeräusche, klare Übertragung der Stimme.
 
-Ein Mikrofon ist **Pflicht** zum Bespielen des GRP-Servers.\
-Das verwendete Mikrofon **muss** folgende Kriterien erfüllen:
-
-* **Kein** Rauschen, keine Störgeräusche, keine Hintergrundgeräusche.
-* **Keine** Übersteuerung, Verzerrung oder Untersteuerung (_Tonaussetzer / o.Ä_).
-* **Klare** Übertragung der **eigenen Stimme**.
-
-**Zusatzsoftware / Cheats / Mods**
+**Verbotene Software:**
 
 Sämtliche Software die einen Vorteil gegenüber anderen Spielern verschafft ist ohne explizite Nennung im [**Regelwerk**](./) / [**Discord**](https://discord.gg/grp-fivem) grundsätzlich **verboten**!
 
@@ -34,16 +23,9 @@ Explizit **verbotene** Software (_nur weil nicht genannt ist es **NICHT** genehm
 * LUA-Injectoren / LUA-Executor o.Ä,
 * Dumping-Lösungen o.Ä,
 
-**verboten**!
+**Weitere Verbote:**
+- Täuschung bei Regelverstößen oder Bug-Ausnutzung ist nicht erlaubt.
+- Die Meldung von Regelverstößen ist innerhalb von 24 Stunden im GRP-Support (_per_[ _**Discord**_](https://discord.gg/grp-fivem)) erforderlich.
 
-Weiterhin ist…
-
-* Täuschen um Regelverstöße zu verschleiern (auch wenn es nicht die eigenen sind),
-* Täuschen um Vorteile / Erstattungen herbeizuführen sowie das Ausnutzen von bekannten / unbekannten Bugs,
-* Die Mitgliedschaft von Cheating / Hacking Discord-Servern,
-
-**verboten!**.
-
-Regelverstöße müssen nach spätestens 24 Stunden ab Bekanntheit, im GRP-Support (_per_[ _**Discord**_](https://discord.gg/grp-fivem)) gemeldet werden.
-
-GRP behält sich das Recht vor, bei Verstößen gegen die Serverregeln oder Richtlinien entsprechende Maßnahmen zu ergreifen, ohne dazu verpflichtet zu sein, die internen Beweise oder Systeme offenzulegen.
+**Maßnahmen bei Verstößen:**
+- Bei Regelverstößen behält sich der Server das Recht vor, Maßnahmen zu ergreifen, ohne interne Beweise offenlegen zu müssen.
