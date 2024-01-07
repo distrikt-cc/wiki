@@ -1,23 +1,21 @@
 # 🔫 §12 Schusscall
 
-**SCHUSSCALL**
-
-Allgemeine Schusscallregelung:
+**Allgemeine Schusscallregelung:**
 
 ❱ Eine Schusswaffe/Schlagwaffe wird **nur** mit gegebenem **Schusscall** verwendet.\
 ❱ Nach dem letzten Schuss, gilt der Schusscall **weitere 10 Minuten**.\
 ❱ Das bloße Zielen mit einer Waffe eröffnet für keine Partei einen Schusscall.\
 ❱ Schüsse auf ein leeres Fahrzeug, **gelten** als Schusscall **wenn** die **Gegenpartei das Feuer eröffnet**.\
 ❱ Flüchten in Safezones bei aktiven Schusscall ist **verboten**.\
-❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.\
+❱ Schüsse auf Fahrzeuge _(eingenommen Insassen)_ insbesondere Reifen _(von_ [_LSPD_](../../fraktionen/lspd.md)\_ / \_ [_LSSD_](../../fraktionen/lssd.md)_)_ kommen einem Schusscall gleich und bedürfen diesen explizit.
 
-Beispiele für einen indirekten Schusscall:
+**Beispiele für einen indirekten Schusscall:**
 
 ❱ Wenn jemand mein Auto vor meinen Augen klaut\
 ❱ extreme Beleidigung und extremes Provozieren\
-❱ das Schießen auf Reifen\\
+❱ das Schießen auf Reifen
 
-Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):\
+Beispiel für direkte Schusscalls (Drohung mit der Waffe/Nahkampfwaffe in der Hand):
 
 ❱ “Hände hoch”, “Stehen bleiben” oder ähnliche Aufforderungen mit einer Waffe/Nahkampfwaffe in der Hand.
 
