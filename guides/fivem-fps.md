@@ -1,6 +1,6 @@
 # 📈 FiveM FPS
 
-### Erklärung <a href="#0-toc-title" id="0-toc-title"></a>
+### Erklärung
 
 FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware optimale FPS (Bilder pro Sekunde) ohne Stottern zu bekommen.
 
