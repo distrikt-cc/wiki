@@ -27,7 +27,7 @@ Wichtig dabei ist, dass man währenddessen mit der Waffe/Nahkampfwaffe auf einen
 _Beispiel: Auf der Munitionsroute eröffnet Peckham den Call gegen die Fraktionen (Crips und Golf). Somit dürfen die Fraktionen Crips und Golf gegen Peckham schießen._
 _Sollten die Crips und Peckham ein Bündnis haben dürfen Crips sich aus der Schießerei raushalten. Sie dürften in diesem Beispiel nur auf Peckham schießen und nicht auf Golf._
 
-❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.\
+❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 
 ❱ Die **Meth-Route** darf auch von **zivile Gruppierung oder als zivile Einzelperson** gestürmt werden.
 
