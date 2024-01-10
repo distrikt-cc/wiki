@@ -15,7 +15,7 @@ _Der Missbrauch dieser Regel, um persönlichen Verlust zu vermeiden oder einen u
 
 **Provokation und Betrug:**
 - Provozieren, um Fehlverhalten zu erzeugen, wird bestraft, insbesondere bei Fraktionen (Fraktionsbaiting).
-- Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden. \[_Ein Bandana zählt ohne weitere Hilfsmittel, wie einen Hut nicht als Vollmaskierung_].\
+- Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden. \[_Ein Bandana zählt ohne weitere Hilfsmittel, wie einen Hut nicht als Vollmaskierung_].
 - Jegliche Art von Scamming / Betrug ist **verboten**.
 
 **Spezifische Richtlinien und Beschränkungen**
