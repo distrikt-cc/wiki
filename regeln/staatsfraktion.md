@@ -2,9 +2,9 @@
 
 _**Generelle Hinweise:**_
 
-Staatsfraktionen unterliegen **keinerlei** Mitgliederanzahl und bedürfen **explizite Genehmigung** um offiziell zu sein und als eben diese Staatsfraktion im Roleplay(_RP_) einzugreifen und / oder zu handeln.
+Staatsfraktionen unterliegen **keinerlei** Mitgliederanzahl und bedürfen **explizite Genehmigung** um offiziell zu sein und als eben diese Staatsfraktion im Roleplay (_RP_) einzugreifen und / oder zu handeln.
 
-Staatsfraktionen unterliegen je nach Stand des Regelwerkes anderen Limitierungen, Befugnissen und Auflagen. Z.B. hinsichtlich der maximalen Anzahl an einer im Roleplay(_RP_) stattfindenden Situation, Regelungen zu illegalen Handlungen, Korruption, usw.
+Staatsfraktionen unterliegen je nach Stand des Regelwerkes anderen Limitierungen, Befugnissen und Auflagen. Z.B. hinsichtlich der maximalen Anzahl an einer im Roleplay (_RP_) stattfindenden Situation, Regelungen zu illegalen Handlungen, Korruption, usw.
 
 Weiterhin können besondere Befugnisse oder Privilegien (Job-Spezifisch) von einer Staatsfraktion womöglich exklusiv genutzt werden:
 
