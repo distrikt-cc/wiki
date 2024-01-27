@@ -41,4 +41,7 @@ Auf einer Route müssen weiterhin alle Parteien **gecalled** werden."
 
 **Das Callen beim Anwesen stürmen:**
 
-Sollte eine Fraktion ein Anwesenstürmen, gilt der **Call für alle** Partein auf dem Anwesen
+Auf Fraktionsanwesen ist **kein Call** erforderlich. Die angreifende Partei **darf erst schießen**, wenn die **verteidigende** Partei das **Feuer eröffnet**. Sollte eine Fraktion ein Anwesen stürmen, gilt der Call zum Schießen für **alle Parteien** auf dem Anwesen, unabhängig davon, ob sie Fraktionskleidung tragen oder nicht.
+
+_Beispiel: Das PD umzingelt das Anwesen der Yakuza. Wenn sich die Yakuza dazu entscheidet, sich zu ergeben, ist kein Call zum Schießen draußen. Sollten sie jedoch das Feuer eröffnen, wird der Call zum Schießen für alle Parteien auf dem Anwesen ausgelöst, unabhängig von ihrer Fraktionszugehörigkeit oder Kleidung._
+
