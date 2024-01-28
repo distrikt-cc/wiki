@@ -7,3 +7,5 @@ Während des **aktiven Airdrops** wird **automatisch ein Schusscall** gegen **al
 Unabhängig davon, ob die Spieler bewusstlos oder bei Bewusstsein sind, dürfen sie **nicht abgezogen** werden, sofern sie in irgendeiner Weise am Airdrop beteiligt waren. Das Wegtragen oder Verstecken von bewusstlosen Spielern ist untersagt.
 
 _Sollte der Gewinner bedroht werden, muss er keine seiner Sachen abgeben._
+
+Das Los Santos Police Department (LSPD) und das Los Santos Medical Department (LSMD) sind berechtigt, am Airdrop teilzunehmen. Die erhaltenen Beutegegenstände dürfen in der eigenen Zentrale verkauft werden. Das Einlagern ist ++untersagt, um Korruption zu verhindern.
