@@ -26,6 +26,7 @@ Explizit **verbotene** Software (_nur weil nicht genannt ist es **NICHT** genehm
 **Weitere Verbote:**
 - Täuschung bei Regelverstößen oder Bug-Ausnutzung ist nicht erlaubt.
 - Die Meldung von Regelverstößen ist innerhalb von 24 Stunden im GRP-Support (_per_[ _**Discord**_](https://discord.gg/grp-fivem)) erforderlich.
+- Es ist zwingend erforderlich, Verdachtsmomente bezüglich Cheating zu melden. Das Unterlassen der Meldung kann mit einem dauerhaften Ausschluss geahndet werden.
 
 **Maßnahmen bei Verstößen:**
 - Bei Regelverstößen behält sich der Server das Recht vor, Maßnahmen zu ergreifen, ohne interne Beweise offenlegen zu müssen.
