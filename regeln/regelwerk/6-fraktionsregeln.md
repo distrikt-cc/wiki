@@ -12,7 +12,11 @@ Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Das „*
 **Fraktionssperre**
 
 Das regelmäßige Wechseln zwischen Fraktionen ist **nicht gestattet**. Nach dem Austritt aus einer Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten, es sei denn, sie waren zuvor **mindestens 4 Wochen** lang Mitglied dieser Fraktion. Sollte eine Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler haben jedoch die Möglichkeit, sich gegen eine ***Gebühr** beim **Continental** von dieser Wartezeit **freizukaufen.**
-Es gibt **keine Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion.
+Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren. Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
+
+_Beispiel: Yakuza ist die Hauptfraktion und Golf die Unterfraktion._
+
+_Golf darf als Yakuza agieren, einschließlich der Verwendung der passenden Kleidung. Aber Yakuza darf nicht als Golf agieren._
 
 [**Staats Fraktion:**](../staatsfraktion.md)
 
