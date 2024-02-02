@@ -31,7 +31,7 @@ Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie sc
 
 **Illegale Fraktion:**\
 \
-Eine Fraktion darf aus maximal 20 Mitgliedern bestehen und so auch agieren. Die Fraktionsleitung ist dafür verantwortlich, dass alle Mitglieder im Fraktionsmenü eingetragen sind.
+Eine Fraktion darf aus maximal 25 Mitgliedern bestehen aber nur mit 20 Mitgliedern agieren. Die Fraktionsleitung ist dafür verantwortlich, dass alle Mitglieder im Fraktionsmenü eingetragen sind.
 Sollte sich eine Fraktion **NEU** gründen erhält Sie vom **Continental** einen  **Aufbauschutz**. Der Aufbauschutz hält **eine Woche** an und kann jederzeit vom **Continental beendet** werden. Während dieser Zeit darf diese Fraktion **NIEMAND** angreifen.
 
 _Sollte die Fraktion Ihren Schutz ausnutzen, wird das Continental den Schutz sofort beenden_
