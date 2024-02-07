@@ -24,6 +24,7 @@
   * [👨👨👦 §17 3.Partei](regeln/regelwerk/17-3-Partei.md)
   * [💊 §18 New Life](regeln/regelwerk/18-New-Life.md)
   * [🎮 §19 Airdrop](regeln/regelwerk/19-Airdrop.md)
+  * [🚘 §20 Autohäuser](regeln/regelwerk/20-Autohäuser.md)
 * [🆘 Power RP](regeln/power-rp.md)
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
