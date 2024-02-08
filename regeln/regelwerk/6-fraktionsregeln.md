@@ -26,7 +26,7 @@ Folgende Fraktionen gelten als [**Staatsfraktion**](../staatsfraktion.md):
 * Los Santos Police Department
 * Los Santos Medical Department
 
-Staatsfraktionen ist es **untersagt**, **korrupt** zu sein. **LSMD-Mitglieder** dürfen **außerhalb des Dienstes** Waffen tragen und einlagern.
+Staatsfraktionen ist es **untersagt**, **korrupt** zu sein. **LSMD-Mitglieder** dürfen **außerhalb des Dienstes** Waffen tragen und einlagern.\
 Strafeinheiten (_Gefängnis / Jail_) über 40 Einheiten sind **nicht** zulässig.\
 Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. 
 
