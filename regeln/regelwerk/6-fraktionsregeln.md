@@ -28,7 +28,7 @@ Folgende Fraktionen gelten als [**Staatsfraktion**](../staatsfraktion.md):
 
 Staatsfraktionen ist es **untersagt**, **korrupt** zu sein. **LSMD-Mitglieder** dürfen **außerhalb des Dienstes** Waffen tragen und einlagern.\
 Mitglieder des LSPD dürfen während ihrer aktiven Dienstzeit **illegale Gegenstände** im Safe aufbewahren.\
-Das **Ein- und Auslagern** sowohl **im Dienst** als auch **außerhalb des Dienstes** ist jedoch **strengstens verboten**.
+Das **Ein- und Auslagern** sowohl **im Dienst** als auch **außerhalb des Dienstes** ist jedoch **strengstens verboten**.\
 Strafeinheiten (_Gefängnis / Jail_) über 40 Einheiten sind **nicht** zulässig.\
 Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr. 
 
