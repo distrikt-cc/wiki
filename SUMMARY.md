@@ -26,6 +26,7 @@
   * [🎮 §19 Airdrop](regeln/regelwerk/19-Airdrop.md)
   * [🚘 §20 Autohäuser](regeln/regelwerk/20-Autohäuser.md)
   * [🔫 §21 Waffenlieferung](regeln/regelwerk/21-Waffenlieferung.md)
+  * [🌇 §22 Zonenkampf](regeln/regelwerk/22-Zonenkampf.md)
 * [🆘 Power RP](regeln/power-rp.md)
 * [🔪 RDM](regeln/rdm.md)
 * [🚙 VDM](regeln/vdm.md)
