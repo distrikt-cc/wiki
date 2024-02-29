@@ -13,6 +13,5 @@ Beispielfahrzeuge, die aufgrund ihrer Kugelsicherheit nicht in Schießereien ben
 - F6
 - Urus
 - Aventador
-- X6
 - Reventon
 - AMG GTR
