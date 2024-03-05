@@ -28,6 +28,9 @@ _Beispiel: Wenn die Polizei dir auf den Fersen ist, fahre ins Hotel, gib deine M
 
 **Blacklist** Wenn eine Fraktion drei **Warns** erhält, wird sie automatisch als **Vogelfrei** erklärt. Für jeden **Warn** kann das Continental zusätzliche **Sanktionen** verhängen. Steht eine bestimmte Person auf der *Blacklist* und erhält drei **Warns**, führt dies zu einem permanenten Ausschluss dieser Person.
 
+**3.Partei** Wenn zwei Fraktionen in einen Waffenkonflikt verwickelt sind, darf sich das Continental nicht direkt am Konflikt beteiligen. Er kann sich jedoch nach Beurteilung der Situation für Verhandlungen anschließen.
+Das Continental fällt ebenfalls unter die 3.Partei Regel. [Mehr über Drittpartei hier](../readme/17-3-Partei.md).
+
 **Serverregeln:** Das Continental hat das Recht jede Regel die im Regelwerk aufgeführt ist aufzuheben. Sich als **Continental** auszugeben ist **STRENG verboten** und wird mit einem Permanenten Ausschluss bestraft. 
 
 Das Continental behält sich das Recht vor, Personen, die wiederholt gegen die Regeln verstoßen und somit ihre RP-Fähigkeit beeinträchtigen, dauerhaft zu bestrafen, indem sie als **"RP-Unfähig"** eingestuft werden.
