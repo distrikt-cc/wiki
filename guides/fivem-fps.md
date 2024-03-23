@@ -1,17 +1,5 @@
 # 📈 FiveM FPS
 
-### Erklärung
-
-FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware optimale FPS (Bilder pro Sekunde) ohne Stottern zu bekommen.
-
-**Features**
-
-* Deaktivierter _Bloom_ (+2 fps)
-* Verringertes _FarClip_ (+5 fps)
-* Verringertes _LOD_ / _SLOD_ (+10 fps)
-* Deaktivierter _T/Imposters_ (+1 fps)
-* Deaktivierter _Blur_ & deaktivierte**s** _HDR_ (+3 fps)
-
 ### Download <a href="#2-toc-title" id="2-toc-title"></a>
 
 **Video Downloads**
