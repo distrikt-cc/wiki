@@ -14,9 +14,6 @@ FiveM für Low-End Systeme ist eine Konfiguration um trotz schlechter Hardware o
 
 ### Download <a href="#2-toc-title" id="2-toc-title"></a>
 
-Download FiveM für Low-End PCs Konfiguration: [**Download**](https://forum.cfx.re/uploads/default/original/3X/6/b/6bc80968a54b301e3ffc53663158fad560fdae24.zip)\
-_(bereitgestellt von_ [_CFX_](https://forum.cfx.re/) _/ FiveM-Forum)_
-
 **Video Downloads**
 
 **Malwarebytes**: [Download](https://de.malwarebytes.com/mwb-download/)\
