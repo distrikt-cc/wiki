@@ -43,6 +43,7 @@ Die Geisel kann OOC einen Hinweis darauf geben:
 _/ooc Ich möchte keine Geisel sein_
 
 Das LSPD darf nicht gestürmt werden.
+Es ist verboten Personen aus dem Auto heraus zu Tazern
 
 Eine Fraktion darf 3x pro Woche seine Fraktionsmitglieder durch eine Geiselnahme befreien.Es darf pro Situation nur max 2 Geiseln befreit werden.
 Bei einem Geisel/Fraktionsmitglied tausch kann das LSPD entscheiden ob der Tatverdächtige bewaffenet oder unbewaffnet freigelassen wird.
