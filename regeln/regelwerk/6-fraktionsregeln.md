@@ -41,10 +41,10 @@ Sollte sich eine Fraktion **NEU** gründen erhält Sie vom **Continental** einen
 _Sollte die Fraktion Ihren Schutz ausnutzen, wird das Continental den Schutz sofort beenden_
 
 
-Eine Bande besteht ab 5 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion und muss sich [**hier anmelden**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).\
+Eine Bande besteht ab 2 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion und muss sich [**hier anmelden**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).\
 Banden dürfen keine illegalen Routen beanspruchen. Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt. Bei einer Anforderung im Support ist dieser RP-Hintergrund nachzuweisen. Eine Untergruppierung einer Fraktion ist erlaubt, das Agieren zusammen ist verboten. Diese Untergruppierung muss mit dem [Continental](../readme/9-continental.md) abgestimmt werden.\
 \
-Eine Fraktion besteht aus mindestens 10 Mitglieder und obliegt den Regeln des Continental. Wie du deine Fraktion anmeldest, erfährst du [**hier**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).
+Eine Fraktion besteht aus mindestens 5 Mitglieder und obliegt den Regeln des Continental. Wie du deine Fraktion anmeldest, erfährst du [**hier**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).
 
 Fraktionen müssen eine eigene [Fraktionsfarbe](../../erklaerung/fraktionsoutfits.md) haben! (Staatsfraktionen ausgenommen) Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben agiert werden.
 
