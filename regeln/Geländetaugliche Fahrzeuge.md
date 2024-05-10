@@ -1,6 +1,6 @@
 # 🚗 Geländetaugliche Fahrzeuge
 
-Wichtig ist! Ein Offroadfahrzeug muss baulich bedingt Offroadfähig sein.
+Im Grunde genommen können alle Fahrzeuge im Gelände genutzt werden, die dafür ausgelegt sind.
 
 **Fahrzeugliste**
 
