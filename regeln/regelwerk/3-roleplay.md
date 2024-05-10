@@ -11,9 +11,12 @@
 **VERHALTEN**
 
 **Verhalten in Fahrzeugen**
-- Sollte dein Fahrzeug in einen Unfall verwickelt sein, muss es entweder repariert oder zu Fuß fortgesetzt werden. Wenn dein Fahrzeug beispielsweise während einer Verfolgungsjagd mit der Polizei verunglückt und sich überschlägt, kann es ohne Reparatur nicht weiterfahren. In diesem Fall musst du zu Fuß weitergehen.\
--Fahrzeuge können weder fliegen noch über Berge rasen. Nicht geländegängige Fahrzeuge dürfen nicht über Berge oder nicht asphaltierte Straßen benutzt werden. Zudem dürfen nicht geländegängige Fahrzeuge auf nicht asphaltierten Straßen nur mit einer maximalen Geschwindigkeit von 45 km/h fahren.\
-- Das Rammen (Pitten) von Autos ist verboten. Sollte es dennoch passieren, wird es als Unfall betrachtet und muss im Rollenspiel ausgespielt werden.\
+- Sollte dein Fahrzeug in einen Unfall verwickelt sein, muss es entweder repariert oder zu Fuß fortgesetzt werden. Wenn dein Fahrzeug beispielsweise während einer Verfolgungsjagd mit der Polizei verunglückt und sich überschlägt, kann es ohne Reparatur nicht weiterfahren. In diesem Fall musst du zu Fuß weitergehen.
+
+-Fahrzeuge können weder fliegen noch über Berge rasen. Nicht geländegängige Fahrzeuge dürfen nicht über Berge oder nicht asphaltierte Straßen benutzt werden. Zudem dürfen nicht geländegängige Fahrzeuge auf nicht asphaltierten Straßen nur mit einer maximalen Geschwindigkeit von 45 km/h fahren.
+
+- Das Rammen (Pitten) von Autos ist verboten. Sollte es dennoch passieren, wird es als Unfall betrachtet und muss im Rollenspiel ausgespielt werden.
+
 _Hier kann zum Beispiel das PD hinzu gezogen werden um den Unfall aufzunehmen_
 
 Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../regeln/Geländetaugliche%20Fahrzeuge.md)] erfahren
