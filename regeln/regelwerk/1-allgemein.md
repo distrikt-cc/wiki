@@ -4,7 +4,8 @@
 - Beim Betreten des Servers stimmst du den Regeln zu.
 - Der Verkauf von Inhalten gegen echtes Geld ist verboten.
 - Während einer aktiven Rollenspielsituation ist es untersagt, den Support aufzusuchen, selbst wenn ein Regelverstoß festgestellt wird. 
-- Nach Abschluss der Situation kann die betreffende Partei durch das Vorlegen eines Videoclips dem Support gemeldet werden.
+- Regelbrüche müssen SOFORT nach Beendigung der RP Situation via Ticket oder Warteraum gemeldet werden
++ Bei Nichtbeachtung wird die selbe Strafe wie beim Regelbruch selbst an ALLE Beteiligten ausgesprochen.
 - Kein Ausnutzen von Regelungslücken zur eigenen Bereicherung.
 - Kein Spielen mit Krankheiten, Schwangerschaft,Suizid oder Rape(Vergewaltigungsrp)
 
