@@ -24,6 +24,17 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../regeln/Geländet
 - Das LSPD ist Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
 - Mehr über die Staatsfraktion findest du \[[hier](../../regeln/staatsfraktion.md)]
 
+**Roleplay als Tier**
+- Tiere dürfen nicht reden
+- Tiere dürfen nicht töten oder erschossen/getötet werden.
+- Tiere dürfen kein Fahrzeuge benutzen(fahren)
+- Tiere dürfen sich nicht vor Menschen verwandelnt. 
+- Das Tierpaket darf nicht zum eigenen Vorteil genutzt werden
+_Als Reh verwandeln damit man schneller zur nächsten Garage laufen kann_ 
+- "Große" Tiere (Kühe, Schweine und Rehe) dürfen nicht auf einem Motorrad transportiert werden
+
+Informationen welche als Tier erfahren werden dürfen nicht genutzent werden (Meta/andere Charakter)
+
 **OOC-Moral**
 
 Sobald du moralisch / persönlich verletzt wirst \[[**OOC**](../../was-ist/was-ist-ic-ooc.md)] beende die Situation umgehend und informiere die Spieler in der Situation.\
