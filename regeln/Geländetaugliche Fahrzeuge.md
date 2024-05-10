@@ -1,5 +1,7 @@
 # 🚗 Geländetaugliche Fahrzeuge
 
+Wichtig ist! Ein Offroadfahrzeug muss baulich bedingt Offroadfähig sein.
+
 **Fahrzeugliste**
 
 **Audi:**
