@@ -1,38 +1,9 @@
 # 📔 §1 Allgemein
 
-**Allgemeine Regeln:**
-- Beim Betreten des Servers stimmst du den Regeln zu.
-- Der Verkauf von Inhalten gegen echtes Geld ist verboten.
-- Während einer aktiven Rollenspielsituation ist es untersagt, den Support aufzusuchen, selbst wenn ein Regelverstoß festgestellt wird. 
-- Regelbrüche müssen SOFORT nach Beendigung der RP Situation via Ticket oder Warteraum gemeldet werden
-+ Bei Nichtbeachtung wird die selbe Strafe wie beim Regelbruch selbst an ALLE Beteiligten ausgesprochen.
-- Kein Ausnutzen von Regelungslücken zur eigenen Bereicherung.
-- Kein Spielen mit Krankheiten, Schwangerschaft,Suizid oder Rape(Vergewaltigungsrp)
-
-**Mikrofonanforderungen:**
-- Ein gutes Mikrofon ist Pflicht: keine Störgeräusche, klare Übertragung der Stimme.
-
-**Verbotene Software:**
-
-Sämtliche Software die einen Vorteil gegenüber anderen Spielern verschafft ist ohne explizite Nennung im [**Regelwerk**](./) / [**Discord**](https://discord.gg/grp-fivem) grundsätzlich **verboten**!
-
-**verboten**!
-
-Explizit **verbotene** Software (_nur weil nicht genannt ist es **NICHT** genehmigt!_)
-
-* Wallhacks / ESP / Gridview o.Ä,
-* Aimbots / Zielhilfen / Zielassistenz o.Ä,
-* Mod-Menüs / Cheat-Menüs / Admin-Menüs o.Ä,
-* LUA-Injectoren / LUA-Executor o.Ä,
-* Dumping-Lösungen o.Ä,
-
-**Weitere Verbote:**
+## §1.1 Allgemeine Regeln:
+- Regelbrüche / Cheats müssen SOFORT nach Beendigung der RP Situation via Ticket oder Warteraum gemeldet werden jedoch nicht während einer Situation
+- Bei Nichtbeachtung wird die selbe Strafe wie beim Regelbruch selbst an ALLE Beteiligten ausgesprochen. (Ausnahme für Streamer)
+- Kein Ausnutzen von Grauzonen
 - Täuschung bei Regelverstößen oder Bug-Ausnutzung ist nicht erlaubt.
-- Es ist zwingend erforderlich, Verdachtsmomente bezüglich Cheating zu melden. Das Unterlassen der Meldung kann mit einem dauerhaften Ausschluss geahndet werden.
-
-**Content Creator:**
-
-Teilnehmer, die zeitlich nicht in der Lage sind, Regelverstöße während eines Livestreams zu melden, haben die Möglichkeit, diese erst **nach Abschluss** des Livestreams zu melden.
-
-**Maßnahmen bei Verstößen:**
-- Bei Regelverstößen behält sich der Server das Recht vor, Maßnahmen zu ergreifen, ohne interne Beweise offenlegen zu müssen.
+- Neue Spieler dürfen nicht aufgefordert werden Einladungscodes einzugeben.
+- Das Ausnutzen / Bestehen jeglicher Bugs muss **umgehend** gemeldet werden.
