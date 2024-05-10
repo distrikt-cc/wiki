@@ -13,6 +13,8 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - Das LSPD darf nicht gestürmt werden. 
 - Das AFK-Farmen von Gehaltschecks ist **verboten**.
 - Das Continental ist die Fraktionsverwaltung und somit unantastbar.
+- Sich als fremde Fraktion auszugeben ist **verboten**.
+
 
 ## §3.2 Illegale Fraktion:
 
