@@ -9,58 +9,53 @@
   * [🎮 §2 Roleplay](regeln/regelwerk/2-roleplay.md)
   * [👬 §3 Fraktionen](regeln/regelwerk/3-fraktionen.md)
   
-
-* [🆘 Power RP](regeln/power-rp.md)
-* [🔪 RDM](regeln/rdm.md)
-* [🚙 VDM](regeln/vdm.md)
-* [⛈ FailRP](regeln/failrp.md)
-* [🚗 Geländetaugliche_Fahrzeuge](regeln/Geländetaugliche%20Fahrzeuge.md)
-* [☄ Baiting](regeln/readme-1.md)
-* [💊 New Life](regeln/new-life.md)
-* [📘 Staatsfraktion](regeln/staatsfraktion.md)
-* [👨⚖ Continental](regeln/continental.md)
-* [👨👨👦 Drittpartei](regeln/drittpartei.md)
-
 ## Erklärung
 
+* [☄ Baiting](erklaerung/readme-1.md)
+* [👨⚖ Continental](erklaerung/continental.md)
+* [👨👨👦 Drittpartei](erklaerung/drittpartei.md)
+* [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
-* [🎤 GRP-Voice](erklaerung/grp-voice.md)
-* [⚒ Farming](erklaerung/farming.md)
-* [💵 Geld Arten](erklaerung/geld-arten.md)
-* [🎆 Events](erklaerung/events.md)
-* [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
-* [🤸 Freizeit Aktivitäten](erklaerung/freizeit-aktivitaeten.md)
-* [🔫 Gambohalle](erklaerung/gambohalle.md)
-* [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
-* [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
-* [🔧 Werkbank](erklaerung/werkbank.md)
+* [👬 Farming](erklaerung/farming.md)
 * [👕 Fraktionsoutfits](erklaerung/fraktionsoutfits.md)
+* [🔫 Gambohalle](erklaerung/gambohalle.md)
+* [💵 Geld Arten](erklaerung/geld-arten.md)
+* [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
+* [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [🗺 illegale Routen](erklaerung/illegale-routen.md)
+* [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
+* [💊 New Life](erklaerung/new-life.md)
+* [🆘 Power RP](erklaerung/power-rp.md)
+* [🔪 RDM](erklaerung/rdm.md)
+* [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
+* [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
+* [🚙 VDM](erklaerung/vdm.md)
+* [🔧 Werkbank](erklaerung/werkbank.md)
 
 ## WAS IST
 
-* [🎮 Was ist RP](was-ist/was-ist-rp.md)
-* [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
+* [⛈ Was ist FailRP](was-ist/was-ist-failrp.md)
 * [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
+* [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
 * [🥲 Was ist OOC-MAD](was-ist/was-ist-ooc-mad.md)
+* [🎮 Was ist RP](was-ist/was-ist-rp.md)
 
 ## Fraktionen
-
+* [🚘 Auto Händler](fraktionen/autohaendler.md)
 * [🏥 LSMD](fraktionen/lsmd.md)
 * [👮 LSPD](fraktionen/lspd.md)
-* [🚘 Auto Händler](fraktionen/autohaendler.md)
+
 
 ## Guides
 
-* [🎫 Ticket erstellen](guides/ticket-erstellen.md)
+* [⚔ Ban](guides/ban.md)
+* [📂 Cache löschen](guides/cache-loeschen.md)
+* [💻 Datenbank](guides/datenbank.md)
+* [🔓 Entbannung](guides/entbannung.md)
+* [📈 FiveM FPS](guides/fivem-fps.md)
 * [🎫 Im Spiel Ticket](guides/im-spiel-ticket.md)
 * [🗣 Support](guides/support.md)
-* [📈 FiveM FPS](guides/fivem-fps.md)
-* [⚔ Ban](guides/ban.md)
-* [🔓 Entbannung](guides/entbannung.md)
-* [📂 Cache löschen](guides/cache-loeschen.md)
-* [⛓ Adminjail](guides/adminjail.md)
-* [💻 Datenbank](guides/datenbank.md)
+* [🎫 Ticket erstellen](guides/ticket-erstellen.md)
 
 ## Team
 

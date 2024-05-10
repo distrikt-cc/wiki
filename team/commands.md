@@ -28,13 +28,13 @@ TxAdmin ruft ihr über einem Browser auf. **tx.grp.plus**\
 Dort logt ihr euch mit eurem CFx Account ein.\
 Danach habt ihr diese Möglichkeiten.
 
-* Nach dem betroffenen User suchen.
-* Play Time vom User.
-* Erste Minute auf dem Server.
-* ID´s vom User.
-* History.
-* Hier könnt ihr auch User einen `Warn` erteilen.
-* Hier könnt ihr auch User einen `Ban` aussprechen.
++ Nach dem betroffenen User suchen.
++ Play Time vom User.
++ Erste Minute auf dem Server.
++ ID´s vom User.
++ History.
++ Hier könnt ihr auch User einen `Warn` erteilen.
++ Hier könnt ihr auch User einen `Ban` aussprechen.
 
 <figure><img src="../.gitbook/assets/commands/tx admin.png" alt=""><figcaption></figcaption></figure>
 
@@ -44,14 +44,14 @@ FiveGuard Menu öffnest du **im Spiel** mit `/fgm` oder `fgm`.
 
 Hier habt ihr diese Funktionen die Ihr nutzen könnt.
 
-* `Delete all Vehicle` Alle Fahrzeuge auf dem Server verschwinden lassen.
-* `Delete all Objects` Alle platzierten Objekte auf dem Server verschwinden lassen.
-* `Delete all Peds` Alle platzierten Peds auf dem Server entfernen.
-* `Kick Player` Einen entsprechenden Spieler vom Server Kicken.
-* `Teleport to Waypoint` Teleportiere dich zu dem gesetzten Wegpunkt.
-* `Teleport to Coords` Teleportiere dich zu den eingegebenen Koordinaten.
-* `Ban Player` Banne einen Spieler mit seiner aktuellen ID.
-* `Screenshot Player` Erstelle einen Screenshot vom Spieler.
++ `Delete all Vehicle` Alle Fahrzeuge auf dem Server verschwinden lassen.
++ `Delete all Objects` Alle platzierten Objekte auf dem Server verschwinden lassen.
++ `Delete all Peds` Alle platzierten Peds auf dem Server entfernen.
++ `Kick Player` Einen entsprechenden Spieler vom Server Kicken.
++ `Teleport to Waypoint` Teleportiere dich zu dem gesetzten Wegpunkt.
++ `Teleport to Coords` Teleportiere dich zu den eingegebenen Koordinaten.
++ `Ban Player` Banne einen Spieler mit seiner aktuellen ID.
++ `Screenshot Player` Erstelle einen Screenshot vom Spieler.
 
 Die anderen Funktionen dürfen nicht genutzt werden oder sind ohne Funktion.
 

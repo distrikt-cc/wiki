@@ -19,7 +19,7 @@ description: Hier bekommst du alle Infos über das Fraktionsoutfit.
 **Outfitfarbe:**
 
 * Die Farbe Schwarz **darf nicht als Farbe beansprucht werden**
-* Es ist nicht gestattet, dass zwei Fraktionen **dieselbe Farbe** beanspruchen. Sollte es dennoch zu einer Überschneidung in der Farbwahl zwischen zwei Fraktionen kommen, müssen sie diesen Konflikt [IC](../was-ist/was-ist-ic-ooc.md) nach vorheriger Absprache mit dem [Continental](../regeln/readme/9-continental.md) lösen."
+* Es ist nicht gestattet, dass zwei Fraktionen **dieselbe Farbe** beanspruchen. Sollte es dennoch zu einer Überschneidung in der Farbwahl zwischen zwei Fraktionen kommen, müssen sie diesen Konflikt [IC](../was-ist/was-ist-ic-ooc.md) nach vorheriger Absprache mit dem [Continental](continental.md) lösen."
 
 **Fahrzeugfarbe:**
 

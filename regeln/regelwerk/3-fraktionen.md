@@ -1,6 +1,6 @@
 # 👬 §3 Fraktionen
 
-Wie du eine Fraktion erstellst und offiziell wird erfährst du [**hier**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md)
+Wie du eine Fraktion erstellst und offiziell wird erfährst du [**hier**](../../erklaerung/continental.md)
 
 ## §3.1 Fraktionsregeln:
 

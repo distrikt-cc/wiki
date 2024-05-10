@@ -9,21 +9,14 @@ description: >-
 
 Folgende Routen gelten als Illegale:
 
-* Weed-Route
-* Heroin-Route
-* LSD-Route
-* Kokain-Route
-* Waffenroute (Details siehe unten)
-* Munitionsroute (Details siehe unten)
-* Meth-Route
-* Alle anderen Routen, die im realen Leben ebenfalls ILLEGAL sind!
++ alle Drogen & Waffenroute
 
 Folgende Gegenstände gelten als **ILLEGAL**:
 
-* Eisenklinge
-* Munition (Pistole und SMG)
-* Waffen und Waffenteile
-* Alle Drogen & Drogen Rezepte
++ Eisenklinge
++ Munition (Pistole und SMG)
++ Waffen und Waffenteile
++ Alle Drogen & Drogen Rezepte
 
 **Waffenroute:**
 
@@ -33,14 +26,10 @@ Die Waffenteile (_Abzug, Holzgriff, Schaft, Lauf, Visier, Magazinhalter_) gelten
 
 Gegenstände mit den folgenden Endungen dürfen **nicht** abgenommen werden:
 
-* \[**Geheim]**
-* **\[VIP]**
-* **\[VIP-GEWINN]**
-* **\[EVENT]**
-* **\[WEAZEL]**
-* **\[SELTEN]**\\
++ \[**Geheim]**
++ **\[VIP]**
++ **\[VIP-GEWINN]**
++ **\[EVENT]**
++ **\[WEAZEL]**
++ **\[SELTEN]**\\
 
-**(AFK)-Farming**
-
-Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
-Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch ansprechbar sein.

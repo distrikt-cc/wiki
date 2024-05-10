@@ -18,7 +18,7 @@
 - Fahrzeuge können weder fliegen noch über Berge rasen. Nicht geländegängige Fahrzeuge dürfen nicht über Berge oder nicht asphaltierte Straßen benutzt werden. Zudem dürfen nicht geländegängige Fahrzeuge auf nicht asphaltierten Straßen nur mit einer maximalen Geschwindigkeit von 45 km/h fahren.
 - Das Rammen von Autos ist verboten.
 - Aus kugelsicheren Fahrzeugen darf nicht geschossen werden.
-Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../regeln/Geländetaugliche%20Fahrzeuge.md)] erfahren
+Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrzeuge.md)] erfahren
 - Provozieren, um Fehlverhalten zu erzeugen ist verboten.
 - Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden.
 - Das Agieren in Nacktheit ist verboten.

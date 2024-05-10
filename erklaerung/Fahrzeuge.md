@@ -1,80 +1,79 @@
-# 🚗 Geländetaugliche Fahrzeuge
+# 🚗 Fahrzeuge
 
 Im Grunde genommen können alle Fahrzeuge im Gelände genutzt werden, die dafür ausgelegt sind.
 
-**Fahrzeugliste**
+## Fahrzeugliste:
 
-**Audi:**
+## Audi:
 - Q6
 - RSQ8
 - RSQ3
 - SQ5
 
-**Aston Martin:**
+## Aston Martin:
 - DBX
 
-**Bentley:**
+## Bentley:
 - Bentayga
 
-**BMW:**
+## BMW:
 - X5
 - X6
 - X7
 
-**Cadillac:**
+## Cadillac:
 - Escalade Sport
 
-**Dacia:**
+## Dacia:
 - Duster Prior
 
-**Dodge:**
+## Dodge:
 - RAM TRX
 
-**DAF:**
+## DAF:
 - XF
 
-**Ferrari:**
+## Ferrari:
 - Purosangue
 
-**Ford:**
+## Ford:
 - F150
 - Raptor
 
-**GMC:**
+## GMC:
 - Sierra
 - Yukon Denali
 
-**Honda:**
+## Honda:
 - CRV Hybrid
 
-**JEEP:**
+## JEEP:
 - Trackhawk
 
-**Jaguar:**
+## Jaguar:
 - F - Pace
 
-**KIA:**
+## KIA:
 - Sportage
 
-**KTM / Husqvarna:**
+## KTM / Husqvarna:
 - KTM RC90
 - KTM 250
 - Husqvarna 401
 - Husqvarna 701
 
-**Lamborghini:**
+## Lamborghini:
 - Urus
 - Urus Hycade
 - Urus Mansory
 
-**Maserati:**
+## Maserati:
 - Levante Novitec
 
-**Mazda:**
+## Mazda:
 - CX 90
 
-**Mercedes / Brabus:**
-- Mercedes V-Klasse
+## Mercedes / Brabus:
 - Mercedes Actros
 - Mercedes G-Klasse
 - Mercedes “Gambo” G-Klasse (10 Sitzer)
@@ -86,36 +85,36 @@ Im Grunde genommen können alle Fahrzeuge im Gelände genutzt werden, die dafür
 - Mercedes GLS Maybach
 - Mercedes ML
 
-**Nissan:**
+## Nissan:
 - Titan
 
-**Porsche:**
+## Porsche:
 - Cayenne
 - Macan
 
-**Range Rover:**
+## Range Rover:
 - Velar
 - Vogue
 
-**Scania:**
+## Scania:
 - R440
 
-**Tesla:**
+## Tesla:
 - Cybertruck
 
-**Volvo:**
+## Volvo:
 - XC90
 - VNL 780
 
-**VW:**
+## VW:
 - Amarok
 - Touareg
 
-**Yamaha:**
+## Yamaha:
 - MT 09
 
 
-**PD / MD / FIB / DOJ:**
+## PD / MD / FIB / DOJ:
 MD - EMS1
 MD - F250
 MD - Range Rover

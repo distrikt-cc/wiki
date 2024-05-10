@@ -9,6 +9,3 @@ _**VDM**_ ist eine Abkürzung für _**V**ehicle **D**eath**m**atch_, also **das 
 * Andere Spieler **dürfen nicht durch Dein Fahrzeug verletzt werden**!
 * Solltest Du **unabsichtlich** jemanden **überfahren**, so solltest Du ihm **helfen** (Beachte die Power-RP Regel!)
 
-### Ausnahme <a href="#2-toc-title" id="2-toc-title"></a>
-
-Wirst Du **mit einer Waffe bedroht** und die Person steht **vor deinem Fahrzeug,** _**darfst**_ Du diesen **überfahren**, um Dein Leben zu schützen.
