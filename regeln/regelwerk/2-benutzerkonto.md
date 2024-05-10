@@ -9,3 +9,4 @@ Adelstitel, Akademische Titel oder ähnliches sind **verboten**.
 
 Das Benutzerkonto / Spielkonto oder Account der bei GRP genutzt wird ist entsprechend zu schützen.\
 GRP kann im Zweifelsfall **keine Accounts wiederherstellen**.
+Das teilen eines Accounts/Charakter ist verboten, jeder ist für seinen Account/Charakter selbst verantwortlich.

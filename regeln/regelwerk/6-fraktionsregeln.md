@@ -12,6 +12,11 @@ Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Das „*
 **Fraktionssperre**
 
 Das regelmäßige Wechseln zwischen Fraktionen ist **nicht gestattet**. Nach dem Austritt aus einer Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten, es sei denn, sie waren zuvor **mindestens 4 Wochen** lang Mitglied dieser Fraktion. Sollte eine Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler haben jedoch die Möglichkeit, sich gegen eine ***Gebühr** beim **Continental** von dieser Wartezeit **freizukaufen.**
+
+_Die Gebühr beträgt **1.000.000$** IC-Cash_
+
+Spieler die das LSMD/LSPD verlassen erhalten **keine** Fraktionssperre. Spieler die von einer Bad Fraktion in das LSPD gehen schon. 
+
 Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren. Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
 
 _Beispiel: Yakuza ist die Hauptfraktion und Golf die Unterfraktion._
@@ -26,11 +31,18 @@ Folgende Fraktionen gelten als [**Staatsfraktion**](../staatsfraktion.md):
 * Los Santos Police Department
 * Los Santos Medical Department
 
-Staatsfraktionen ist es **untersagt**, **korrupt** zu sein. **LSMD-Mitglieder** dürfen **außerhalb des Dienstes** Waffen tragen und einlagern.\
-Mitglieder des LSPD dürfen während ihrer aktiven Dienstzeit **illegale Gegenstände** im Safe aufbewahren.\
-Das **Ein- und Auslagern** sowohl **im Dienst** als auch **außerhalb des Dienstes** ist jedoch **strengstens verboten**.\
+Staatsfraktionen ist es **untersagt**, **korrupt** zu sein.\
 Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.\ 
 In einer Staatsfraktion erfolgt die Trennung durch eine formelle **Kündigung**, im Gegensatz zu den Illegalen Fraktionen, bei denen die Trennung durch einen sogenannten "Bloodout" erfolgt.\
+Das LSPD darf nicht gestürmt werden. Das AFK-Farmen von Gehaltschecks ist **verboten**
+
+**LSPD**
+- Mitglieder des LSPD dürfen während ihrer aktiven Dienstzeit **illegale Gegenstände** im Safe aufbewahren.\
+- Das **Ein- und Auslagern** sowohl **im Dienst** als auch **außerhalb des Dienstes** ist jedoch **strengstens verboten**.\
+- Spezialeinheiten müssen vom Continental genehmigt werden
+
+**LSMD**
+**LSMD-Mitglieder** dürfen **außerhalb des Dienstes** Waffen tragen und einlagern.
 
 **Illegale Fraktion:**\
 \
@@ -39,15 +51,14 @@ Sollte sich eine Fraktion **NEU** gründen erhält Sie vom **Continental** einen
 
 _Sollte die Fraktion Ihren Schutz ausnutzen, wird das Continental den Schutz sofort beenden_
 
-
 Eine Bande besteht ab 2 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion und muss sich [**hier anmelden**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).\
 Banden dürfen keine illegalen Routen beanspruchen. Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt. Bei einer Anforderung im Support ist dieser RP-Hintergrund nachzuweisen. Eine Untergruppierung einer Fraktion ist erlaubt, das Agieren zusammen ist verboten. Diese Untergruppierung muss mit dem [Continental](../readme/9-continental.md) abgestimmt werden.\
 \
 Eine Fraktion besteht aus mindestens 5 Mitglieder und obliegt den Regeln des Continental. Wie du deine Fraktion anmeldest, erfährst du [**hier**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md).
 
-Fraktionen müssen eine eigene [Fraktionsfarbe](../../erklaerung/fraktionsoutfits.md) haben! (Staatsfraktionen ausgenommen) Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben agiert werden.
+Fraktionen müssen eine eigene [Fraktionsfarbe](../../erklaerung/fraktionsoutfits.md) haben! (Staatsfraktionen ausgenommen) Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben und der **Fraktionsweste** agiert werden.
 
-Um eine [**Fraktion zu gründen**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md), muss eine [**Fraktionsfarbe**](../../erklaerung/fraktionsoutfits.md) festgelegt und der Fraktionsverwaltung ([Continental](../readme/9-continental.md)) IC gemeldet werden. [Mehr über das Continental erfahrt ihr hier](../readme/9-continental.md).
+Um eine [**Fraktion zu gründen**](../readme/11-wie-wird-meine-fraktion-bande-offiziell.md), muss eine [**Fraktionsfarbe**](../../erklaerung/fraktionsoutfits.md) festgelegt und der Fraktionsverwaltung ([Continental](../readme/9-continental.md)) IC gemeldet werden. [Mehr über das Continental erfahrt ihr hier](../readme/9-continental.md). Es muss ein Konzept eingerecht werden. Mehr dazu [[HIER](../../regeln/regelwerk/11-wie-wird-meine-fraktion-bande-offiziell.md)]
 
 Welche Farben erlaubt sind und was zu beachten ist, kannst du [**HIER**](../../erklaerung/fraktionsoutfits.md) nachlesen
 
@@ -58,7 +69,7 @@ Arbeiter dürfen nicht mit der Fraktion agieren noch sind sie Teil der Fraktion.
 
 Ausnahme:
 
-Sollte auf einer Route ein Arbeiter gecallt werden, eröffnet das gleichzeitig ein Call. für die Hauptfraktion.\\
+Sollte auf einer Route ein Arbeiter ubedroht wird, ist es ein Grund für die Hauptfraktion einzugreifen.\\
 
 Waffenlieferung:
 
@@ -66,3 +77,9 @@ Waffenlieferung:
 
 \
 Fraktionen dürfen max eine Drogen-Route verwalten, alle Routen besitzt das [Continental](../readme/9-continental.md).
+
+**Das Verhalten auf Drogenrouten**
+
+❱ Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
+
+❱ Die **Meth-Route** darf auch von **zivile Gruppierung oder als zivile Einzelperson** gestürmt werden.

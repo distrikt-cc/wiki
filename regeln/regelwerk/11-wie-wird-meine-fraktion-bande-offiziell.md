@@ -22,4 +22,6 @@ Vorstellung:
 * RP-Geschichte
 * Pläne
 
+Bei einer Fraktion ist ein Konzept verpflichtend!
+
 Das Continental vergibt gegen einen Gegenwert ein Fraktionsanwesen. Jede Fraktion **muss** ein solches Anwesen besitzen und es bei der [**Fraktionsverwaltung (Continental)**](9-continental.md) anmelden.

@@ -3,8 +3,10 @@
 **Allgemeine Regeln:**
 - Beim Betreten des Servers stimmst du den Regeln zu.
 - Der Verkauf von Inhalten gegen echtes Geld ist verboten.
+- Während einer aktiven Rollenspielsituation ist es untersagt, den Support aufzusuchen, selbst wenn ein Regelverstoß festgestellt wird. 
+- Nach Abschluss der Situation kann die betreffende Partei durch das Vorlegen eines Videoclips dem Support gemeldet werden.
 - Kein Ausnutzen von Regelungslücken zur eigenen Bereicherung.
-- Kein Spielen mit Krankheiten, Schwangerschaft oder Suizid.
+- Kein Spielen mit Krankheiten, Schwangerschaft,Suizid oder Rape(Vergewaltigungsrp)
 
 **Mikrofonanforderungen:**
 - Ein gutes Mikrofon ist Pflicht: keine Störgeräusche, klare Übertragung der Stimme.
