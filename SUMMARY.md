@@ -44,8 +44,8 @@
 * [🎮 Was ist RP](was-ist/was-ist-rp.md)
 
 ## Fraktionen
-* [👨🏻‍⚖️ DOJ](fraktionen/doj.md)
 * [🚘 Auto Händler](fraktionen/autohaendler.md)
+* [👨🏻‍⚖️ DOJ](fraktionen/doj.md)
 * [🏥 LSMD](fraktionen/lsmd.md)
 * [👮 LSPD](fraktionen/lspd.md)
 
