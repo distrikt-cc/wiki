@@ -32,7 +32,7 @@
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🏢 Tankstelle](erklaerung/tankstelle.md)
-* [🏢 Truckerjob](erklaerung/trucker.md)
+* [🚛 Truckerjob](erklaerung/trucker.md)
 * [🏭 Unternehmen](erklaerung/unternehmen.md)
 * [🚙 VDM](erklaerung/vdm.md)
 * [🏬 Walmart](erklaerung/werkbank.md)
