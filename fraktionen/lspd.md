@@ -12,7 +12,7 @@
 
 #### LSPD Dienstvorschriften
 
-{% embed url="https://docs.google.com/document/d/1qkeXuUjuDgozn_5NlAbaDZ5nH6MPOT10lYWK-EnJG3U/edit" %}
+{% embed url="https://docs.google.com/document/d/1C7E_WLTT_hIIPoYw5aHwC_UvHKrp5_Z5dWKW3ebWPFc/mobilebasic" %}
 
 {% embed url="https://copsystem.tynopia.net/" %}
 
