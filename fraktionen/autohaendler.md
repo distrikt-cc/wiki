@@ -11,9 +11,10 @@ Suche dir davor einen geeigneten Standort aus.
 
 ### Wie sehen die Spieler dies?
 
-Du wirst so lange auf der Karte angezeigt als Autohändler so lange du im Radius bleibst. \
-Aber gehst du als Autohändler aus dem Radius raus dann verschwindet die Markierung. \
-Diese kommt wieder, sobald du im Radius drinnen bist.
++ Du wirst so lange auf der Karte angezeigt als Autohändler so lange du im Radius bleibst.
++ Aber gehst du als Autohändler aus dem Radius raus dann verschwindet die Markierung.
++ Diese kommt wieder, sobald du im Radius drinnen bist.
++ Es kann jeder \[[Autohändler](https://www.grp.plus/cardealers)] auf der Webseite angesehen werden
 
 ### Wie lange bleibt das bestehen?
 
