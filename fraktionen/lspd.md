@@ -32,8 +32,6 @@ Das Los Santos Police Department (LSPD) ist der Hüter der Ordnung und Sicherhei
 
 {% embed url="https://docs.google.com/document/d/1C7E_WLTT_hIIPoYw5aHwC_UvHKrp5_Z5dWKW3ebWPFc" %}
 
-{% embed url="https://copsystem.tynopia.net/" %}
-
 ### Logos/Bilder <a href="#4-toc-title" id="4-toc-title"></a>
 
 <figure><img src="https://prod.cloud.rockstargames.com/crews/sc/0291/19566919/publish/emblem/emblem_512.png" alt="LSPD Police Services - Rockstar Games Social Club" height="318" width="318"><figcaption></figcaption></figure>
