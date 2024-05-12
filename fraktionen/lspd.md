@@ -17,7 +17,7 @@ Das Los Santos Police Department (LSPD) ist der Hüter der Ordnung und Sicherhei
 + Zu den Aufgaben des LSPD gehören auch einfache Verkehrskontrollen sowie Ermittlungen gegen Tatverdächtige.
 
 ### Abteilungen des LSPD:
-+ Personalabteilung: Zuständig für die Einstellung und Verwaltung von Offizieren.
++ Personalabteilung: Zuständig für die Einstellung und Verwaltung von Beamten.
 + Ausbildungsabteilung: Unterstützt die stetige Weiterbildung des LSPD.
 + Supervisoren: Kümmern sich um die interne Ordnung und Organisation.
 + Detektiv Unit: Leitet Verhöre, führt verdeckte Ermittlungen gegen Kriminelle durch und erledigt den notwendigen Papierkram.

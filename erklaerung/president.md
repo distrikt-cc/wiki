@@ -15,7 +15,7 @@ Der Präsident / Bürgermeister wird von GRP mit Sonderrechten ausgestattet und 
 + Bestimmt den allgemeinen Steuersatz des Staates
 + Bestimmt zusammen mit dem DOJ welche Geschäfte zum Verkauf angeboten werden
 + Erhält ein exklusives Büro im DOJ
-+ Erhählt Zugang zum DOJ ohne beim DOJ angestellt zu sein
++ Erhält Zugang zum DOJ ohne beim DOJ angestellt zu sein
 + Darf neben seiner Tätigkeit in jeder Staatsfraktion / Fraktion Mitglied sein (Zustimmung der Fraktion natürlich vorausgesetzt)
 + Kümmert sich nach EIGENEM ERMESSEN um Bürgertermine und Wünsche
 
