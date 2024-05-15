@@ -2,7 +2,7 @@
 
 ### Erklärung <a href="#0-toc-title" id="0-toc-title"></a>
 
-## President
+## Präsident
 
 Der Präsident / Bürgermeister wird von GRP mit Sonderrechten ausgestattet und erhält folgende Freiheiten
 

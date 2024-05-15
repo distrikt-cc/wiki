@@ -27,7 +27,7 @@
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
 * [💊 New Life](erklaerung/new-life.md)
 * [🆘 Power RP](erklaerung/power-rp.md)
-* [🧔🏻 President](erklaerung/president.md)
+* [🧔🏻 Präsident](erklaerung/president.md)
 * [🔪 RDM](erklaerung/rdm.md)
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
