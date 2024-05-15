@@ -35,7 +35,7 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 
 ## $2.3 Tiere
 - Tiere dürfen nicht reden, töten, erschossen, getötet werden.
-- Tiere dürfen sich nicht vor Menschen verwandelnt. 
+- Tiere dürfen sich nicht vor Menschen verwandeln. 
 - Das Tierpaket darf nicht zum eigenen Vorteil genutzt werden
 
 ## §2.4 Geiselnahmen & Überfälle & Waffenlieferung
