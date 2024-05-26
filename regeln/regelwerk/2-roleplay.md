@@ -27,7 +27,7 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 - Die Verwendung einer Schuss- oder Schlagwaffe **ohne Call ist erlaubt**, sofern dies in der Rollenspiel-Situation sinnvoll ist. 
 - Eine Waffe nur eingesetzt / gezogen werden, wenn man nicht erheblich in der Unterzahl ist. 
 - Die Wahl zur Waffe sollte **immer** die letzte Wahl sein. 
-- Autohändler dürfen **pro** Standort maximal **10 Autos** ausparken.
+- Autohändler dürfen **pro** Standort maximal **10 Autos** ausparken."AFK" ist erlaubt, man muss aber ansprechbar sein.
 - META-Gaming, VDM, RDM ist untersagt
 - Die Flucht aus einer RP-Situation, indem man sich ausloggt, von der Situation entfernt oder Selbstmord begeht, ist **verboten** (_z.B. Offlineflucht / Combat Log-Out_).
 - Es gilt eine New Life Regelung nach einer Not-OP! (Man kann sich nicht an die vorherige Situation erinnern sowie teilnehmen) 
