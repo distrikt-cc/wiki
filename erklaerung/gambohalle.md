@@ -11,4 +11,4 @@ Die Gambohalle beinhaltet verschiedene Shooter-Games die gegen einzelne oder meh
 
 ### Hinweis <a href="#2-toc-title" id="2-toc-title"></a>
 
-Die Gambohalle ist ab Visumsstufe 2 verfügbar & betretbar in jedem **GRP-Hub**. Die Gambohalle ist eine **OOC-Zone.** Sollte hier beleidigt werden, kann dieses im Support sanktioniert werden.
+Die Gambohalle ist ab Visumsstufe 2 verfügbar & betretbar in jedem **Distrikt-Hub**. Die Gambohalle ist eine **OOC-Zone.** Sollte hier beleidigt werden, kann dieses im Support sanktioniert werden.

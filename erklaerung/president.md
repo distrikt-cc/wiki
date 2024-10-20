@@ -4,7 +4,7 @@
 
 ## Präsident
 
-Der Präsident / Bürgermeister wird von GRP mit Sonderrechten ausgestattet und erhält folgende Freiheiten
+Der Präsident / Bürgermeister wird von Distrikt mit Sonderrechten ausgestattet und erhält folgende Freiheiten
 
 + Bestimmt Shoppreise (Von - Bis Preise)
 + Bestimmt Lagerkapazität von Shops

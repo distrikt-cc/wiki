@@ -1,6 +1,6 @@
 # 💵 Geld Arten
 
-Es gibt **drei verschiedene Arten von Geld** innerhalb des Roleplays auf GRP.
+Es gibt **drei verschiedene Arten von Geld** innerhalb des Roleplays auf Distrikt.
 
 * **Cash / Bargeld**
 * **Bankaccount / Geld auf der Bank / Geld auf dem Konto**

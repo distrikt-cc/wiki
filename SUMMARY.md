@@ -6,14 +6,17 @@
 
 * [📖 Regelwerk](regeln/regelwerk/README.md)
   * [📔 §1 Allgemein](regeln/regelwerk/1-allgemein.md)
-  * [🎮 §2 Roleplay](regeln/regelwerk/2-roleplay.md)
-  * [👬 §3 Fraktionen](regeln/regelwerk/3-fraktionen.md)
+  * [📘 §2 Benutzerkonto](regeln/regelwerk/2-benutzerkonto.md)
+  * [🎮 §3 Roleplay](regeln/regelwerk/3-roleplay.md)
+  * [🚙 §4 Vehicle Deathmatch](regeln/regelwerk/4-vdm.md)
+  * [🔫 §5 Random Deathmatch](regeln/regelwerk/5-rdm.md)
+  * [👬 §6 Fraktionen](regeln/regelwerk/6-fraktionen.md)
+  * [👨🏻‍⚖️ §7 Datenschutz](regeln/regelwerk/7-datenschutz.md)
+  * [💻 §8 Discord](regeln/regelwerk/8-discord.md)
   
 ## Erklärung
 
 * [☄ Baiting](erklaerung/readme-1.md)
-* [🚨 Battle Pass](erklaerung/battlepass.md)
-* [👨⚖ Continental](erklaerung/continental.md)
 * [👨👨👦 Drittpartei](erklaerung/drittpartei.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)

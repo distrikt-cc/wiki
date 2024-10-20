@@ -24,7 +24,6 @@ Diese Befehle musst du direkt im **Discord** ausführen. Dabei ist es egal welch
 
 ### TxAdmin
 
-TxAdmin ruft ihr über einem Browser auf. **tx.grp.plus**\
 Dort logt ihr euch mit eurem CFx Account ein.\
 Danach habt ihr diese Möglichkeiten.
 

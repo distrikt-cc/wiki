@@ -1,14 +1,14 @@
 # Willkommen
 
-## Über German Roleplay (GRP)
+## Über Distrikt Roleplay (Distrikt)
 
-German Roleplay (GRP) ist ein FiveM RP Server, der stolz auf eine lange Geschichte zurückblicken kann. Seit über 3 Jahren bieten wir eine immersive und unterhaltsame Roleplay-Umgebung für unsere Community. Unser Engagement für Qualitäts-Wirtschaft und die kontinuierliche Weiterentwicklung unseres Servers haben uns zu dem gemacht, was wir heute sind.
+Distrikt Roleplay ist ein FiveM RP Server, der stolz auf eine lange Geschichte zurückblicken kann. Seit über 3 Jahren bieten wir eine immersive und unterhaltsame Roleplay-Umgebung für unsere Community. Unser Engagement für Qualitäts-Wirtschaft und die kontinuierliche Weiterentwicklung unseres Servers haben uns zu dem gemacht, was wir heute sind.
 
 ### Eine Geschichte von Wandel und Wachstum
 
-Unsere Geschichte ist geprägt von Veränderungen und Anpassungen, die darauf abzielen, die Spielerfahrung auf unserem Server stets zu verbessern. Ursprünglich haben wir mit drei verschiedenen Servern unter dem Namen GRP operiert. Jeder dieser Server hatte seine eigene Identität und Spielerbasis.
+Unsere Geschichte ist geprägt von Veränderungen und Anpassungen, die darauf abzielen, die Spielerfahrung auf unserem Server stets zu verbessern. Ursprünglich haben wir mit drei verschiedenen Servern unter dem Namen Distrikt operiert. Jeder dieser Server hatte seine eigene Identität und Spielerbasis.
 
-Im Laufe der Zeit haben wir uns weiterentwickelt und entschieden, unsere Ressourcen zu bündeln. Unter dem Namen "GRP" schlossen sich die Server zu einem einzigen, kohärenten RP-Erlebnis zusammen. Dieser Schritt ermöglichte es uns, unsere Kräfte zu vereinen und unsere Community noch stärker zu verbinden.
+Im Laufe der Zeit haben wir uns weiterentwickelt und entschieden, unsere Ressourcen zu bündeln. Unter dem Namen "Distrikt" schlossen sich die Server zu einem einzigen, kohärenten RP-Erlebnis zusammen. Dieser Schritt ermöglichte es uns, unsere Kräfte zu vereinen und unsere Community noch stärker zu verbinden.
 
 ### Beteilige dich an unserer Wiki-Community
 
@@ -33,6 +33,6 @@ Wenn du daran interessiert bist, deinen Teil zur Verbesserung unseres Wikis beiz
 
 ### Los geht's!
 
-Wir freuen uns darauf, gemeinsam mit dir unser Wiki zu erweitern und zu verbessern. Egal, ob du Informationen über Fraktionen, Aktivitäten, Geschichten oder nützliche Tipps und Tricks teilen möchtest - deine Beiträge sind wertvoll. Lass uns zusammenarbeiten, um die RP-Community von German Roleplay (GRP) zu stärken!
+Wir freuen uns darauf, gemeinsam mit dir unser Wiki zu erweitern und zu verbessern. Egal, ob du Informationen über Fraktionen, Aktivitäten, Geschichten oder nützliche Tipps und Tricks teilen möchtest - deine Beiträge sind wertvoll. Lass uns zusammenarbeiten, um die RP-Community von Distrikt zu stärken!
 
 Vielen Dank für deine Unterstützung und viel Spaß beim Spielen auf unserem Server!

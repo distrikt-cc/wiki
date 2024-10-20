@@ -6,4 +6,4 @@ In der Werkbank kannst du Ressourcen Herstellen und diese zu nützlichen Gegenst
 
 ### Hinweise <a href="#1-toc-title" id="1-toc-title"></a>
 
-Werkbänke findest du in jeden GRP-Hub.
+Werkbänke findest du in jeden Distrikt-Hub.

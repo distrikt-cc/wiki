@@ -1,10 +1,10 @@
-# 🎤 GRP-Voice
+# 🎤 Distrikt-Voice
 
 Erklärung
 
-**GRP-Voice** ist das eigene Voice-System was nur GRP bietet und besitzt!\
+**Distrikt-Voice** ist das eigene Voice-System was nur Distrikt bietet und besitzt!\
 Unvergleichbare Qualität bei minimalen Performance-Einsatz!\
-Das kann nur GRP!
+Das kann nur Distrikt!
 
 ### Einleitung zur Problembehebung <a href="#1-toc-title" id="1-toc-title"></a>
 
@@ -16,13 +16,13 @@ _So geht es für Dich sofort ins_[ _Roleplay_ ](../regeln/regelwerk/3-roleplay.m
 
 **Lösung**:
 
-1. Sobald Du auf GRP verbunden bist drücke die „**ESCAPE**„-Taste und öffne „**Einstellungen**„.
+1. Sobald Du auf Distrikt verbunden bist drücke die „**ESCAPE**„-Taste und öffne „**Einstellungen**„.
 2. Wähle den Punkt „**Einstellungen**“ an.
 3. Wähle im Einstellungs-Menü (_links_) den 4. Punkt von oben „**Audio**“ an.
 4. In dem Menü _(mitte)_ findest du als vorletzte Option „**Stummschaltung bei Fokusverlust**„.
 5. Schalte „**Stummschaltung bei Fokusverlust**“ auf „**Aus**“ _(sollte es vorher auf „An“ gewesen sein)_.
 6. Falls Du gefragt wirst ob die Änderungen der Einstellungen übernommen werden sollen: **bestätige** und **schließe das Menü**.
-7. _Viel Spaß auf **GRP**!_
+7. _Viel Spaß auf **Distrikt**!_
 
 ### Tipp für Neulinge & Einsteiger im RP <a href="#6-toc-title" id="6-toc-title"></a>
 
@@ -33,4 +33,4 @@ Innerhalb der Tastaturbelegung gibt es eine Möglichkeit zum muten / stummschalt
 
 ### Tastenbelegung <a href="#7-toc-title" id="7-toc-title"></a>
 
-Auf GRP kannst Du sehr einfach Deine **eigene Tastenbelegung** nutzen und einstellen!
+Auf Distrikt kannst Du sehr einfach Deine **eigene Tastenbelegung** nutzen und einstellen!
